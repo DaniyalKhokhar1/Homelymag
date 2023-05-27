@@ -1,0 +1,4367 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TheBlogger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-04 03:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/post-meta.php:60
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:156
+msgid "&#8595;"
+msgstr ""
+
+#: functions.php:95
+msgid "(Edit)"
+msgstr ""
+
+#: admin/meta-box-featured-media.php:21
+msgid "(for Link format)"
+msgstr ""
+
+#: admin/demo-import.php:181
+msgid ""
+"(If you are using additional plugins on your site that also have minimum "
+"requirements, you may need to increase your memory to help avoid loading "
+"issues.)"
+msgstr ""
+
+#: admin/widget-intro.php:64
+msgid "(MP4 video.)"
+msgstr ""
+
+#: admin/widget-about-me.php:9
+msgid "(Pixelwars) About Me"
+msgstr ""
+
+#: admin/widget-intro.php:9
+msgid "(Pixelwars) Intro"
+msgstr ""
+
+#: admin/widget-link-box.php:9
+msgid "(Pixelwars) Link Box"
+msgstr ""
+
+#: admin/widget-main-slider.php:9
+msgid "(Pixelwars) Main Slider"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:9
+msgid "(Pixelwars) Social Media Icon"
+msgstr ""
+
+#: admin/widget-intro.php:58
+msgid "(YouTube, Vimeo embed code.)"
+msgstr ""
+
+#: admin/widget-intro.php:69
+msgid "(YouTube, Vimeo page url.)"
+msgstr ""
+
+#: admin/meta-box-sidebar.php:82
+msgid ""
+"- Also you can create new sidebars from Appearance > Theme Options > Widget "
+"Areas."
+msgstr ""
+
+#: admin/meta-box-post-style.php:65
+msgid "- Classic style applies if there is no featured media."
+msgstr ""
+
+#: admin/meta-box-post-style.php:69
+msgid ""
+"- Image Left and Image Right layouts display as classic style when featured "
+"video is present."
+msgstr ""
+
+#: admin/meta-box-sidebar.php:77
+msgid ""
+"- Sidebar is a widget area. You can find all available sidebars in your "
+"Widgets page under Appearance menu or Widgets section in Customizer."
+msgstr ""
+
+#: admin/post-meta.php:58
+msgid "0 Comments"
+msgstr ""
+
+#: admin/widget-main-slider.php:72
+msgid "1"
+msgstr ""
+
+#: admin/post-meta.php:59
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:20
+#, php-format
+msgid "1 Comment %2$s"
+msgid_plural "%1$s Comments %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/widget-link-box.php:59 admin/widget-main-slider.php:88
+msgid "100%"
+msgstr ""
+
+#: admin/customizer-settings.php:3984
+msgid "1st Full + Grid"
+msgstr ""
+
+#: admin/customizer-settings.php:3985
+msgid "1st Full + List"
+msgstr ""
+
+#: admin/widget-main-slider.php:73
+msgid "2"
+msgstr ""
+
+#: admin/widget-link-box.php:56
+msgid "25%"
+msgstr ""
+
+#: admin/widget-main-slider.php:74
+msgid "3"
+msgstr ""
+
+#: admin/customizer-settings.php:2539
+msgid "3 Columns"
+msgstr ""
+
+#: admin/widget-link-box.php:57
+msgid "33%"
+msgstr ""
+
+#: admin/customizer-settings.php:148
+msgid "3D"
+msgstr ""
+
+#: admin/customizer-settings.php:3376
+msgid "3D Hard Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:3375
+msgid "3D Shadow"
+msgstr ""
+
+#: admin/widget-main-slider.php:75
+msgid "4"
+msgstr ""
+
+#: admin/customizer-settings.php:2538
+msgid "4 Columns"
+msgstr ""
+
+#: admin/widget-main-slider.php:76
+msgid "5"
+msgstr ""
+
+#: admin/widget-link-box.php:58 admin/widget-main-slider.php:86
+msgid "50%"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:46
+msgid "500px"
+msgstr ""
+
+#: admin/widget-main-slider.php:87
+msgid "75%"
+msgstr ""
+
+#: admin/widget-about-me.php:10
+msgid "About me widget."
+msgstr ""
+
+#: admin/customizer-settings.php:4518
+msgid "About post author module under post content."
+msgstr ""
+
+#: admin/customizer-settings.php:4374 admin/customizer-settings.php:4851
+#: admin/customizer-settings.php:4867 admin/customizer-settings.php:4883
+#: admin/customizer-settings.php:4911 admin/customizer-settings.php:4927
+#: admin/customizer-settings.php:4944 admin/customizer-settings.php:4961
+#: admin/customizer-settings.php:4977 admin/customizer-settings.php:4996
+#: admin/customizer-settings.php:5012 admin/customizer-settings.php:5028
+#: admin/customizer-settings.php:5056 admin/customizer-settings.php:5072
+#: admin/customizer-settings.php:5089 admin/customizer-settings.php:5106
+#: admin/customizer-settings.php:5122
+msgid "Above Title"
+msgstr ""
+
+#: admin/customizer-settings.php:2769
+msgid "Activate sidebar area for blog page."
+msgstr ""
+
+#: admin/customizer-settings.php:2869
+msgid ""
+"Activate sidebar area for individual product page. (for WooCommerce plugin)"
+msgstr ""
+
+#: admin/customizer-settings.php:2818
+msgid "Activate sidebar area for portfolio category pages."
+msgstr ""
+
+#: admin/customizer-settings.php:2852
+msgid "Activate sidebar area for shop categories. (for WooCommerce plugin)"
+msgstr ""
+
+#: admin/customizer-settings.php:2835
+msgid "Activate sidebar area for single portfolio posts."
+msgstr ""
+
+#: admin/customizer-settings.php:2801
+msgid "Activate sidebar area for single posts."
+msgstr ""
+
+#: admin/widget_area-register.php:69 admin/widget_area-register.php:81
+#: admin/widget_area-register.php:93 admin/widget_area-register.php:105
+msgid "Add \"Main Slider\", \"Link Box\", \"Intro\" widgets."
+msgstr ""
+
+#: admin/widget_area-register.php:117 admin/widget_area-register.php:129
+msgid "Add \"Social Media Icon\" widget per icon."
+msgstr ""
+
+#: admin/widget_area-register.php:261
+msgid "Add \"Text\" widget."
+msgstr ""
+
+#: admin/meta-box-featured-area.php:56
+msgid ""
+"Add Main Slider, Link Box or Intro widgets to your featured area. You can "
+"add many widgets to a featured area."
+msgstr ""
+
+#: admin/widget_area-register.php:141 admin/widget_area-register.php:153
+#: admin/widget_area-register.php:165 admin/widget_area-register.php:177
+#: admin/widget_area-register.php:189 admin/widget_area-register.php:201
+msgid "Add widget."
+msgstr ""
+
+#: admin/widget_area-register.php:9 admin/widget_area-register.php:21
+#: admin/widget_area-register.php:213 admin/widget_area-register.php:225
+#: admin/widget_area-register.php:237 admin/widget_area-register.php:249
+#: admin/widget_area-register.php:285
+msgid "Add widgets."
+msgstr ""
+
+#: admin/demo-import.php:17
+msgid "Adventura"
+msgstr ""
+
+#: admin/customizer-settings.php:782
+msgid "After Logo Area Items Align"
+msgstr ""
+
+#: admin/customizer-settings.php:752
+msgid "After Logo Area Visibility"
+msgstr ""
+
+#: page_template-portfolio.php:67 taxonomy-portfolio-category.php:60
+msgid "all"
+msgstr ""
+
+#: admin/customizer-settings.php:4627
+msgid "All categories"
+msgstr ""
+
+#: admin/customizer-settings.php:4369
+msgid "Also for featured videos."
+msgstr ""
+
+#: admin/meta-box-gallery-type.php:30
+msgid ""
+"And select gallery type from here. You can turn your gallery into a slider."
+msgstr ""
+
+#: admin/demo-import.php:101
+msgid "Andy"
+msgstr ""
+
+#: admin/widget-main-slider.php:109
+msgid "Animation"
+msgstr ""
+
+#: admin/widget-main-slider.php:168
+msgid "Animation Duration"
+msgstr ""
+
+#: admin/demo-import.php:80
+msgid "Anna"
+msgstr ""
+
+#: admin/customizer-settings.php:2786
+msgid "Applies to category/tag/author/date/search archives."
+msgstr ""
+
+#: admin/archive-title.php:90 admin/archive-title.php:103
+#: admin/archive-title.php:118
+msgid "Archives"
+msgstr ""
+
+#: functions.php:123
+msgid "at"
+msgstr ""
+
+#: admin/customizer-settings.php:4727
+msgid "Audio Embeds Position"
+msgstr ""
+
+#: admin/meta-box-featured-media.php:51
+msgid ""
+"Audio: Just paste the browser address url of an audio from SoundCloud. This "
+"audio will be shown in place of featured image."
+msgstr ""
+
+#: admin/meta-box-featured-media.php:42
+msgid ""
+"Audio: Use browser address url of an audio from SoundCloud. This audio will "
+"be shown in a lightbox in your portfolio page."
+msgstr ""
+
+#: admin/customizer-settings.php:4907 admin/customizer-settings.php:5052
+msgid "Author"
+msgstr ""
+
+#: admin/customizer-settings.php:4034
+msgid "Author Archive"
+msgstr ""
+
+#: admin/customizer-settings.php:4517
+msgid "Author Info Box"
+msgstr ""
+
+#: admin/customizer-settings.php:4550
+msgid "Author Info Box Align"
+msgstr ""
+
+#: admin/customizer-settings.php:4533
+msgid "Author Info Box Style"
+msgstr ""
+
+#: admin/widget_area-register.php:128
+msgid "Author Social Media Icons"
+msgstr ""
+
+#: admin/customizer-settings.php:4161
+msgid "Automatic Excerpt"
+msgstr ""
+
+#: admin/widget-main-slider.php:210
+msgid "Autoplay"
+msgstr ""
+
+#: admin/widget-main-slider.php:221
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: admin/widget-main-slider.php:115
+msgid "Back Slide"
+msgstr ""
+
+#: woocommerce/content-single-product.php:44
+msgid "Back To Shop"
+msgstr ""
+
+#: admin/widget-main-slider.php:274
+msgid "Background"
+msgstr ""
+
+#: admin/widget-intro.php:56
+msgid "Background Embed Video"
+msgstr ""
+
+#: admin/widget-intro.php:46
+msgid "Background Image"
+msgstr ""
+
+#: admin/widget-intro.php:67
+msgid "Background Parallax Video"
+msgstr ""
+
+#: admin/widget-intro.php:61
+msgid "Background Self-Hosted Video"
+msgstr ""
+
+#: admin/customizer-settings.php:1981
+msgid "Badge"
+msgstr ""
+
+#: admin/customizer-settings.php:1983
+msgid "Badge Center"
+msgstr ""
+
+#: admin/customizer-settings.php:1982
+msgid "Badge Horizontal"
+msgstr ""
+
+#: admin/customizer-settings.php:1984
+msgid "Badge Round"
+msgstr ""
+
+#: admin/customizer-settings.php:767
+msgid "Before Logo Area Items Align"
+msgstr ""
+
+#: admin/customizer-settings.php:737
+msgid "Before Logo Area Visibility"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:47
+msgid "Behance"
+msgstr ""
+
+#: admin/customizer-settings.php:4853 admin/customizer-settings.php:4869
+#: admin/customizer-settings.php:4885 admin/customizer-settings.php:4913
+#: admin/customizer-settings.php:4929 admin/customizer-settings.php:4946
+#: admin/customizer-settings.php:4963 admin/customizer-settings.php:4979
+#: admin/customizer-settings.php:4998 admin/customizer-settings.php:5014
+#: admin/customizer-settings.php:5030 admin/customizer-settings.php:5058
+#: admin/customizer-settings.php:5074 admin/customizer-settings.php:5091
+#: admin/customizer-settings.php:5108 admin/customizer-settings.php:5124
+msgid "Below Content"
+msgstr ""
+
+#: admin/customizer-settings.php:4373 admin/customizer-settings.php:4852
+#: admin/customizer-settings.php:4868 admin/customizer-settings.php:4884
+#: admin/customizer-settings.php:4912 admin/customizer-settings.php:4928
+#: admin/customizer-settings.php:4945 admin/customizer-settings.php:4962
+#: admin/customizer-settings.php:4978 admin/customizer-settings.php:4997
+#: admin/customizer-settings.php:5013 admin/customizer-settings.php:5029
+#: admin/customizer-settings.php:5057 admin/customizer-settings.php:5073
+#: admin/customizer-settings.php:5090 admin/customizer-settings.php:5107
+#: admin/customizer-settings.php:5123
+msgid "Below Title"
+msgstr ""
+
+#: admin/customizer-sections.php:117 admin/customizer-settings.php:3995
+msgid "Blog"
+msgstr ""
+
+#: admin/customizer-settings.php:2785
+msgid "Blog Archive Sidebar"
+msgstr ""
+
+#: admin/meta-box-featured-area.php:20 admin/widget_area-register.php:68
+msgid "Blog Featured Area"
+msgstr ""
+
+#: admin/customizer-settings.php:4224
+msgid "Blog Grid Excerpt Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:4193
+msgid "Blog Grid Excerpt Length"
+msgstr ""
+
+#: admin/customizer-settings.php:4254
+msgid "Blog Grid Post Title Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3958
+msgid "Blog Homepage Header Style"
+msgstr ""
+
+#: admin/customizer-sections.php:140
+msgid "Blog Meta"
+msgstr ""
+
+#: admin/customizer-sections.php:141
+msgid "Blog meta options."
+msgstr ""
+
+#: admin/customizer-settings.php:4269
+msgid "Blog Navigation"
+msgstr ""
+
+#: admin/customizer-sections.php:118
+msgid "Blog page options."
+msgstr ""
+
+#: admin/customizer-settings.php:4239
+msgid "Blog Regular Post Title Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2768 admin/meta-box-sidebar.php:33
+#: admin/widget_area-register.php:8
+msgid "Blog Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:4073
+msgid "Blog Text Align"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:58
+msgid "Blogger"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:70
+msgid "Bloglovin"
+msgstr ""
+
+#: admin/widget-main-slider.php:157
+msgid "Blur"
+msgstr ""
+
+#: admin/customizer-settings.php:2182
+msgid "Blur In"
+msgstr ""
+
+#: admin/customizer-settings.php:2186
+msgid "Blur In Down"
+msgstr ""
+
+#: admin/customizer-settings.php:2183
+msgid "Blur In Left"
+msgstr ""
+
+#: admin/customizer-settings.php:2184
+msgid "Blur In Right"
+msgstr ""
+
+#: admin/customizer-settings.php:2185
+msgid "Blur In Up"
+msgstr ""
+
+#: admin/widget-main-slider.php:159
+msgid "Blur Scale"
+msgstr ""
+
+#: admin/widget-main-slider.php:160
+msgid "Blur Stack Scale"
+msgstr ""
+
+#: admin/widget-main-slider.php:161
+msgid "Blur Stack Zoom"
+msgstr ""
+
+#: admin/widget-main-slider.php:158
+msgid "Blur Zoom"
+msgstr ""
+
+#: admin/customizer-settings.php:123
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/customizer-settings.php:895
+msgid "Body Font"
+msgstr ""
+
+#: admin/customizer-settings.php:908
+msgid "Body Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:923
+msgid "Body Font Size Mobile (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1055
+msgid "Body Layout"
+msgstr ""
+
+#: admin/customizer-settings.php:938
+msgid "Body Line Height"
+msgstr ""
+
+#: admin/customizer-settings.php:101
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1071
+msgid "Body Top-Bottom Margin"
+msgstr ""
+
+#: admin/customizer-settings.php:1963 admin/customizer-settings.php:2593
+msgid "Bold"
+msgstr ""
+
+#: admin/customizer-settings.php:2594
+msgid "Bold Light"
+msgstr ""
+
+#: admin/customizer-settings.php:954
+msgid "Bold/italic styles."
+msgstr ""
+
+#: admin/customizer-settings.php:2965 admin/customizer-settings.php:3355
+#: admin/customizer-settings.php:4450 admin/customizer-settings.php:4540
+#: admin/customizer-settings.php:4685 admin/customizer-settings.php:4717
+msgid "Border"
+msgstr ""
+
+#: admin/customizer-settings.php:1288 admin/customizer-settings.php:2578
+msgid "Border All"
+msgstr ""
+
+#: admin/customizer-settings.php:2966 admin/customizer-settings.php:4541
+#: admin/customizer-settings.php:4718
+msgid "Border Arrow"
+msgstr ""
+
+#: admin/customizer-settings.php:1286 admin/customizer-settings.php:2004
+#: admin/customizer-settings.php:2326 admin/customizer-settings.php:3374
+#: admin/customizer-settings.php:3494 admin/customizer-settings.php:3538
+#: admin/customizer-settings.php:3617 admin/customizer-settings.php:4137
+#: admin/customizer-settings.php:4765
+msgid "Border Bottom"
+msgstr ""
+
+#: admin/customizer-settings.php:2327
+msgid "Border Bottom Bold"
+msgstr ""
+
+#: admin/customizer-settings.php:4139
+msgid "Border Bottom Dotted"
+msgstr ""
+
+#: admin/customizer-settings.php:1287
+msgid "Border Bottom Fixed"
+msgstr ""
+
+#: admin/customizer-settings.php:4138
+msgid "Border Bottom Light"
+msgstr ""
+
+#: admin/customizer-settings.php:4687
+msgid "Border Image Out"
+msgstr ""
+
+#: admin/customizer-settings.php:2003 admin/customizer-settings.php:2577
+#: admin/customizer-settings.php:2703
+msgid "Border Top"
+msgstr ""
+
+#: admin/customizer-settings.php:2704
+msgid "Border Top Bold"
+msgstr ""
+
+#: admin/customizer-settings.php:2706
+msgid "Border Top Bold Light"
+msgstr ""
+
+#: admin/customizer-settings.php:2705
+msgid "Border Top Light"
+msgstr ""
+
+#: admin/customizer-settings.php:1999 admin/customizer-settings.php:3480
+#: admin/customizer-settings.php:4766
+msgid "Borders"
+msgstr ""
+
+#: admin/customizer-settings.php:2000
+msgid "Borders Bold"
+msgstr ""
+
+#: admin/customizer-settings.php:3482 admin/customizer-settings.php:4768
+msgid "Borders Light"
+msgstr ""
+
+#: admin/customizer-settings.php:4769
+msgid "Borders Light Round"
+msgstr ""
+
+#: admin/customizer-settings.php:3483
+msgid "Borders Light Rounded"
+msgstr ""
+
+#: admin/customizer-settings.php:2001 admin/customizer-settings.php:4767
+msgid "Borders Round"
+msgstr ""
+
+#: admin/customizer-settings.php:2002
+msgid "Borders Round Bold"
+msgstr ""
+
+#: admin/customizer-settings.php:3481
+msgid "Borders Rounded"
+msgstr ""
+
+#: admin/customizer-settings.php:3568 admin/customizer-settings.php:3717
+msgid "Bottom"
+msgstr ""
+
+#: admin/customizer-settings.php:2970
+msgid "Bottomline"
+msgstr ""
+
+#: admin/widget-main-slider.php:285
+msgid "Box Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:1060 admin/customizer-settings.php:2524
+#: admin/customizer-settings.php:4448 admin/customizer-settings.php:4538
+#: admin/customizer-settings.php:4684 admin/customizer-settings.php:4716
+msgid "Boxed"
+msgstr ""
+
+#: admin/customizer-settings.php:4449
+msgid "Boxed Color"
+msgstr ""
+
+#: admin/customizer-settings.php:4539
+msgid "Boxed Dark"
+msgstr ""
+
+#: admin/customizer-settings.php:4686
+msgid "Boxed Image Out"
+msgstr ""
+
+#: admin/widget-about-me.php:32 admin/widget-intro.php:39
+#: admin/widget-intro.php:49 admin/widget-intro.php:63
+#: admin/widget-link-box.php:46
+msgid "Browse"
+msgstr ""
+
+#: admin/archive-title.php:15
+msgid "Browsing Category"
+msgstr ""
+
+#: admin/customizer-settings.php:3537 admin/customizer-settings.php:4136
+msgid "Button Like"
+msgstr ""
+
+#: admin/widget-intro.php:76
+msgid "Button Text"
+msgstr ""
+
+#: admin/widget-intro.php:80
+msgid "Button URL"
+msgstr ""
+
+#: admin/customizer-sections.php:35
+msgid "Buttons"
+msgstr ""
+
+#: admin/customizer-settings.php:163
+msgid "Buttons Font"
+msgstr ""
+
+#: admin/customizer-settings.php:176
+msgid "Buttons Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:191
+msgid "Buttons Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:204
+msgid "Buttons Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:219
+msgid "Buttons Text Transform"
+msgstr ""
+
+#: admin/post-meta.php:96
+msgid "by"
+msgstr ""
+
+#: admin/customizer-settings.php:4847 admin/customizer-settings.php:4992
+msgid "Category"
+msgstr ""
+
+#: admin/customizer-settings.php:4008
+msgid "Category Archive"
+msgstr ""
+
+#: admin/customizer-settings.php:4833
+msgid "Category Link Bg/Border Color"
+msgstr ""
+
+#: admin/customizer-settings.php:4759
+msgid "Category Link Style"
+msgstr ""
+
+#: admin/customizer-settings.php:771 admin/customizer-settings.php:786
+#: admin/customizer-settings.php:1732 admin/customizer-settings.php:2161
+#: admin/customizer-settings.php:2744 admin/customizer-settings.php:2936
+#: admin/customizer-settings.php:2950 admin/customizer-settings.php:3551
+#: admin/customizer-settings.php:3566 admin/customizer-settings.php:3581
+#: admin/customizer-settings.php:3700 admin/customizer-settings.php:3715
+#: admin/customizer-settings.php:3747 admin/customizer-settings.php:4077
+#: admin/customizer-settings.php:4357 admin/customizer-settings.php:4464
+#: admin/customizer-settings.php:4555 admin/widget-main-slider.php:230
+msgid "Center"
+msgstr ""
+
+#: admin/customizer-settings.php:3325
+msgid "Center Margin"
+msgstr ""
+
+#: admin/customizer-sections.php:23
+msgid "Characters"
+msgstr ""
+
+#: admin/customizer-settings.php:1541 admin/customizer-settings.php:1997
+msgid "Chevron"
+msgstr ""
+
+#: admin/customizer-settings.php:153 admin/customizer-settings.php:4700
+msgid "Circle"
+msgstr ""
+
+#: admin/customizer-settings.php:3596
+msgid "Circle Grow"
+msgstr ""
+
+#: admin/customizer-settings.php:3983
+msgid "Circles"
+msgstr ""
+
+#: admin/customizer-settings.php:3088 admin/customizer-settings.php:3906
+#: admin/customizer-settings.php:4291 admin/customizer-settings.php:4585
+#: admin/meta-box-post-style.php:30
+msgid "Classic"
+msgstr ""
+
+#: admin/customizer-settings.php:3091 admin/customizer-settings.php:3909
+#: admin/customizer-settings.php:4294 admin/meta-box-post-style.php:33
+msgid "Classic Full"
+msgstr ""
+
+#: admin/customizer-settings.php:3092 admin/customizer-settings.php:3910
+#: admin/customizer-settings.php:4295 admin/meta-box-post-style.php:34
+msgid "Classic Full Parallax"
+msgstr ""
+
+#: admin/customizer-settings.php:3093 admin/customizer-settings.php:3911
+#: admin/customizer-settings.php:4296 admin/meta-box-post-style.php:35
+msgid "Classic Full with Margins"
+msgstr ""
+
+#: admin/customizer-settings.php:3094 admin/customizer-settings.php:3912
+#: admin/customizer-settings.php:4297 admin/meta-box-post-style.php:36
+msgid "Classic Full with Margins Parallax"
+msgstr ""
+
+#: admin/customizer-settings.php:3089 admin/customizer-settings.php:3907
+#: admin/customizer-settings.php:4292 admin/meta-box-post-style.php:31
+msgid "Classic Medium"
+msgstr ""
+
+#: admin/customizer-settings.php:3090 admin/customizer-settings.php:3908
+#: admin/customizer-settings.php:4293 admin/meta-box-post-style.php:32
+msgid "Classic Medium Parallax"
+msgstr ""
+
+#: admin/customizer-sections.php:29
+msgid "Colors"
+msgstr ""
+
+#: admin/customizer-settings.php:3380
+msgid "Comic Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:4879 admin/customizer-settings.php:5024
+msgid "Comment"
+msgstr ""
+
+#: admin/customizer-settings.php:4711
+msgid "Comment Form Style"
+msgstr ""
+
+#: admin/customizer-settings.php:4696
+msgid "Comment Image Shape"
+msgstr ""
+
+#: admin/post-meta.php:62
+msgid "Comments Off"
+msgstr ""
+
+#: admin/customizer-settings.php:4679
+msgid "Comments Style"
+msgstr ""
+
+#: admin/widget-main-slider.php:290
+msgid "Container"
+msgstr ""
+
+#: admin/customizer-settings.php:1086
+msgid "Content Width (px)"
+msgstr ""
+
+#: admin/install-plugins.php:47
+msgid "Convert Plus - Popup Plugin For WordPress"
+msgstr ""
+
+#: admin/customizer-settings.php:2716
+msgid "Copyright Bar Background Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2728
+msgid "Copyright Bar Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2698
+msgid "Copyright Border Style"
+msgstr ""
+
+#: admin/customizer-settings.php:2641
+msgid "Copyright Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2656
+msgid "Copyright Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:2669
+msgid "Copyright Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2684
+msgid "Copyright Text Transform"
+msgstr ""
+
+#: admin/meta-box-gallery-type.php:25
+msgid "Create galleries from Add Media button above the content editor."
+msgstr ""
+
+#: admin/customizer-settings.php:1540
+msgid "Curtain"
+msgstr ""
+
+#: admin/customizer-sections.php:176 admin/customizer-settings.php:5137
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/customizer-settings.php:1542
+msgid "Cut Left"
+msgstr ""
+
+#: admin/customizer-settings.php:1543
+msgid "Cut Left Round"
+msgstr ""
+
+#: admin/customizer-settings.php:1544
+msgid "Cut Right"
+msgstr ""
+
+#: admin/customizer-settings.php:1545
+msgid "Cut Right Round"
+msgstr ""
+
+#: admin/customizer-settings.php:992
+msgid "Cyrillic Characters"
+msgstr ""
+
+#: admin/customizer-settings.php:1004
+msgid "Cyrillic Characters (extended)"
+msgstr ""
+
+#: admin/customizer-settings.php:1402 admin/customizer-settings.php:2021
+#: admin/customizer-settings.php:2148 admin/customizer-settings.php:2295
+#: admin/customizer-settings.php:2608 admin/customizer-settings.php:3353
+#: admin/customizer-settings.php:3762 admin/widget-main-slider.php:278
+msgid "Dark"
+msgstr ""
+
+#: admin/customizer-settings.php:3377
+msgid "Dark Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:3356
+msgid "Darker"
+msgstr ""
+
+#: admin/customizer-settings.php:4863 admin/customizer-settings.php:5008
+msgid "Date"
+msgstr ""
+
+#: admin/customizer-settings.php:4047
+msgid "Date Archive"
+msgstr ""
+
+#: admin/archive-title.php:72
+msgid "Date Archives"
+msgstr ""
+
+#: admin/customizer-settings.php:709 admin/customizer-settings.php:3055
+#: admin/customizer-settings.php:3117 admin/customizer-settings.php:3141
+#: admin/customizer-settings.php:3369 admin/customizer-settings.php:3479
+#: admin/customizer-settings.php:3613 admin/customizer-settings.php:3935
+#: admin/customizer-settings.php:3964 admin/customizer-settings.php:4320
+#: admin/customizer-settings.php:4343 admin/customizer-settings.php:4731
+#: admin/demo-import.php:10 admin/widget-about-me.php:52
+msgid "Default"
+msgstr ""
+
+#: admin/customizer-sections.php:113
+msgid "Default page options."
+msgstr ""
+
+#: admin/widget-main-slider.php:172
+msgid "Default: 0.7 s"
+msgstr ""
+
+#: admin/customizer-settings.php:3168 admin/customizer-settings.php:3202
+msgid "Default: 320"
+msgstr ""
+
+#: admin/widget-main-slider.php:225
+msgid "Default: 4000 ms"
+msgstr ""
+
+#: admin/customizer-settings.php:4149
+msgid "Default: Read More"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:59
+msgid "Delicious"
+msgstr ""
+
+#: admin/widget-about-me.php:39 admin/widget-intro.php:72
+msgid "Description"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:72
+msgid "DeviantArt"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:60
+msgid "Digg"
+msgstr ""
+
+#: admin/customizer-settings.php:4623
+msgid ""
+"Display posts from all categories or within same category of current post."
+msgstr ""
+
+#: admin/customizer-settings.php:4638
+msgid "Display posts order by."
+msgstr ""
+
+#: admin/customizer-settings.php:4565
+msgid "Display related posts module."
+msgstr ""
+
+#: admin/widget-main-slider.php:10
+msgid "Display your site's posts."
+msgstr ""
+
+#: admin/customizer-settings.php:3496
+msgid "Dots Bottom"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:48
+msgid "Dribbble"
+msgstr ""
+
+#: admin/customizer-settings.php:727
+msgid "Drop Shadow"
+msgstr ""
+
+#: admin/install-plugins.php:58
+msgid "Easy Social Share Buttons for WordPress"
+msgstr ""
+
+#: functions.php:129 admin/customizer-settings.php:4973
+#: admin/customizer-settings.php:5118 admin/post-meta.php:149
+msgid "Edit"
+msgstr ""
+
+#: admin/demo-import.php:94
+msgid "Emma"
+msgstr ""
+
+#: admin/widget_area-register.php:57
+msgid ""
+"Enable sidebar for shop category page and single product page from "
+"Customizer > Sidebar."
+msgstr ""
+
+#: admin/widget-main-slider.php:44
+msgid "Enter title."
+msgstr ""
+
+#: admin/demo-import.php:59
+msgid "Eric"
+msgstr ""
+
+#: admin/customizer-settings.php:4209
+msgid "Excerpt Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:4177
+msgid "Excerpt Length"
+msgstr ""
+
+#: admin/customizer-settings.php:4121
+msgid "Exclude from Blog"
+msgstr ""
+
+#: admin/widget-link-box.php:69 admin/widget-main-slider.php:101
+msgid "Extra Wide"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:34
+msgid "Facebook"
+msgstr ""
+
+#: admin/widget-main-slider.php:114
+msgid "Fade"
+msgstr ""
+
+#: admin/widget-main-slider.php:119
+msgid "Fade Horizontal"
+msgstr ""
+
+#: admin/widget-main-slider.php:120
+msgid "Fade Horizontal Big"
+msgstr ""
+
+#: admin/customizer-settings.php:2176
+msgid "Fade In"
+msgstr ""
+
+#: admin/customizer-settings.php:2180
+msgid "Fade In Down"
+msgstr ""
+
+#: admin/customizer-settings.php:2177
+msgid "Fade In Left"
+msgstr ""
+
+#: admin/customizer-settings.php:2178
+msgid "Fade In Right"
+msgstr ""
+
+#: admin/customizer-settings.php:2179
+msgid "Fade In Up"
+msgstr ""
+
+#: admin/widget-main-slider.php:145
+msgid "Fade Left Zoom Out"
+msgstr ""
+
+#: admin/widget-main-slider.php:144
+msgid "Fade Up Zoom Out"
+msgstr ""
+
+#: admin/widget-main-slider.php:121
+msgid "Fade Vertical"
+msgstr ""
+
+#: admin/widget-main-slider.php:122
+msgid "Fade Vertical Big"
+msgstr ""
+
+#: admin/customizer-sections.php:81 admin/meta-box-featured-area.php:108
+msgid "Featured Area"
+msgstr ""
+
+#: admin/meta-box-featured-area.php:51
+msgid ""
+"Featured Area is a widget area like sidebars. So you can create new one from "
+"Appearance > Theme Options > Widget Areas."
+msgstr ""
+
+#: admin/customizer-settings.php:3287
+msgid "Featured Area Top Padding (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3272
+msgid "Featured Area Width"
+msgstr ""
+
+#: admin/meta-box-featured-media.php:107
+msgid "Featured Audio/Video"
+msgstr ""
+
+#: admin/meta-box-featured-media.php:112
+msgid "Featured Audio/Video/Link"
+msgstr ""
+
+#: admin/customizer-settings.php:4368
+msgid "Featured Image Position"
+msgstr ""
+
+#: admin/customizer-settings.php:2971
+msgid "First Letter Border"
+msgstr ""
+
+#: admin/customizer-settings.php:2972
+msgid "First Letter Solid"
+msgstr ""
+
+#: admin/customizer-settings.php:4093
+msgid "Fit Rows"
+msgstr ""
+
+#: admin/customizer-settings.php:3157 admin/customizer-settings.php:3191
+msgid "Fit Rows - (Square)"
+msgstr ""
+
+#: admin/customizer-settings.php:3158 admin/customizer-settings.php:3192
+msgid "Fit Rows - (Wide)"
+msgstr ""
+
+#: admin/customizer-settings.php:614 admin/customizer-settings.php:1175
+#: admin/customizer-settings.php:1687 admin/customizer-settings.php:2342
+#: admin/customizer-settings.php:3276 admin/customizer-settings.php:4388
+#: admin/customizer-settings.php:4612
+msgid "Fixed"
+msgstr ""
+
+#: admin/customizer-settings.php:2343
+msgid "Fixed BG"
+msgstr ""
+
+#: admin/customizer-settings.php:1688
+msgid "Fixed Bg"
+msgstr ""
+
+#: admin/customizer-settings.php:2341
+msgid "Fixed Content"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:45
+msgid "Flickr"
+msgstr ""
+
+#: admin/widget-main-slider.php:147
+msgid "Flip Horizontal"
+msgstr ""
+
+#: admin/customizer-settings.php:2188
+msgid "Flip In"
+msgstr ""
+
+#: admin/customizer-settings.php:2189
+msgid "Flip In Half"
+msgstr ""
+
+#: admin/widget-main-slider.php:146
+msgid "Flip Vertical"
+msgstr ""
+
+#: admin/customizer-settings.php:3124 admin/customizer-settings.php:3942
+#: admin/customizer-settings.php:3971 admin/customizer-settings.php:4327
+msgid "Floating Box"
+msgstr ""
+
+#: admin/customizer-settings.php:3125 admin/customizer-settings.php:3943
+#: admin/customizer-settings.php:3972 admin/customizer-settings.php:4328
+msgid "Floating Box Margin"
+msgstr ""
+
+#: admin/customizer-settings.php:3126 admin/customizer-settings.php:3944
+#: admin/customizer-settings.php:3973 admin/customizer-settings.php:4329
+msgid "Floating Box Menu"
+msgstr ""
+
+#: admin/customizer-settings.php:2191
+msgid "Fly In"
+msgstr ""
+
+#: admin/customizer-sections.php:17
+msgid "Fonts"
+msgstr ""
+
+#: admin/customizer-sections.php:74
+msgid "Footer"
+msgstr ""
+
+#: admin/widget_area-register.php:212
+msgid "Footer 1"
+msgstr ""
+
+#: admin/widget_area-register.php:224
+msgid "Footer 2"
+msgstr ""
+
+#: admin/widget_area-register.php:236
+msgid "Footer 3"
+msgstr ""
+
+#: admin/widget_area-register.php:248
+msgid "Footer 4"
+msgstr ""
+
+#: admin/customizer-settings.php:2549
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2561
+msgid "Footer Background Gradient Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2587
+msgid "Footer Border Style"
+msgstr ""
+
+#: admin/customizer-settings.php:2572
+msgid "Footer Borders"
+msgstr ""
+
+#: admin/customizer-settings.php:2533
+msgid "Footer Columns"
+msgstr ""
+
+#: admin/widget_area-register.php:260
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: admin/widget_area-register.php:200
+msgid "Footer Instagram"
+msgstr ""
+
+#: admin/customizer-settings.php:2519
+msgid "Footer Layout"
+msgstr ""
+
+#: admin/widget_area-register.php:188
+msgid "Footer Subscribe"
+msgstr ""
+
+#: admin/customizer-settings.php:2618
+msgid "Footer Subscribe Background Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2630
+msgid "Footer Subscribe Background Gradient Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2603
+msgid "Footer Subscribe Style"
+msgstr ""
+
+#: admin/customizer-settings.php:2754
+msgid "Footer Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2534
+msgid "Footer widget areas."
+msgstr ""
+
+#: admin/customizer-settings.php:2739
+msgid "Footer Widgets Text Align"
+msgstr ""
+
+#: admin/customizer-settings.php:4194
+msgid "For grid, list and circles layouts. Default: 35 (words)"
+msgstr ""
+
+#: admin/customizer-settings.php:4384
+msgid "For images and embed media like video in content."
+msgstr ""
+
+#: admin/customizer-settings.php:3137
+msgid "For portfolio page template and portfolio category page."
+msgstr ""
+
+#: admin/customizer-settings.php:3084 admin/customizer-settings.php:3112
+msgid ""
+"For portfolio posts and other custom post types. This setting may be "
+"overridden for individual posts."
+msgstr ""
+
+#: admin/customizer-settings.php:4474
+msgid "For previous post/next post."
+msgstr ""
+
+#: admin/customizer-settings.php:4178
+msgid "For regular layout. Default: 65 (words)"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:49
+msgid "Forrst"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:63
+msgid "Foursquare"
+msgstr ""
+
+#: admin/customizer-settings.php:615 admin/customizer-settings.php:1174
+#: admin/customizer-settings.php:1689 admin/customizer-settings.php:2340
+#: admin/customizer-settings.php:3277
+msgid "Full"
+msgstr ""
+
+#. Name of the template
+#: admin/customizer-settings.php:1059 admin/customizer-settings.php:2523
+#: admin/customizer-settings.php:3143
+msgid "Full width"
+msgstr ""
+
+#: admin/customizer-settings.php:1176 admin/customizer-settings.php:3278
+msgid "Full with Margins"
+msgstr ""
+
+#: admin/widget-main-slider.php:103
+msgid "Fullscreen"
+msgstr ""
+
+#: admin/customizer-settings.php:3381
+msgid "Futurist Shadow"
+msgstr ""
+
+#: admin/meta-box-gallery-type.php:87
+msgid "Gallery Type"
+msgstr ""
+
+#: admin/install-plugins.php:124
+msgid "GDPR Cookie Consent Banner"
+msgstr ""
+
+#: admin/customizer-sections.php:6 admin/customizer-sections.php:48
+#: admin/customizer-sections.php:86
+msgid "General"
+msgstr ""
+
+#: admin/customizer-sections.php:7
+msgid "General options."
+msgstr ""
+
+#: admin/customizer-settings.php:4162
+msgid "Generates an excerpt from the post content."
+msgstr ""
+
+#: admin/customizer-settings.php:140
+msgid "Generic Buttons Style"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:61
+msgid "GitHub"
+msgstr ""
+
+#: admin/functions-portfolio.php:129
+msgid "Go To Link"
+msgstr ""
+
+#: admin/customizer-sections.php:93
+msgid "Go to Widgets section and add Main Slider widget to any Featured Area."
+msgstr ""
+
+#: admin/customizer-sections.php:105
+msgid ""
+"Go to Widgets section and drag and drop Intro widget to Blog/Page Featured "
+"Area."
+msgstr ""
+
+#: admin/customizer-sections.php:99
+msgid ""
+"Go to Widgets section and drag and drop Link Box widgets to Blog/Page "
+"Featured Area."
+msgstr ""
+
+#: admin/widget-social-media-icon.php:75
+msgid "Goodreads"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: admin/enqueue-styles-scripts.php:97
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:42
+msgid "Google+"
+msgstr ""
+
+#: admin/customizer-settings.php:1016
+msgid "Greek Characters"
+msgstr ""
+
+#: admin/customizer-settings.php:1028
+msgid "Greek Characters (extended)"
+msgstr ""
+
+#: admin/customizer-settings.php:3981 admin/meta-box-gallery-type.php:19
+msgid "Grid"
+msgstr ""
+
+#: admin/customizer-settings.php:3201
+msgid "Grid Item Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3167 admin/customizer-settings.php:4102
+msgid "Grid Post Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3302
+msgid "Grid Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3152 admin/customizer-settings.php:3186
+#: admin/customizer-settings.php:4088
+msgid "Grid Type"
+msgstr ""
+
+#: admin/customizer-settings.php:3120 admin/customizer-settings.php:3938
+#: admin/customizer-settings.php:3967 admin/customizer-settings.php:4323
+msgid "Half Transparent"
+msgstr ""
+
+#: admin/customizer-settings.php:3121 admin/customizer-settings.php:3939
+#: admin/customizer-settings.php:3968 admin/customizer-settings.php:4324
+msgid "Half Transparent Margin"
+msgstr ""
+
+#: admin/customizer-sections.php:43
+msgid "Header"
+msgstr ""
+
+#: admin/customizer-settings.php:1464
+msgid "Header Background Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1476
+msgid "Header Background Gradient Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1201
+msgid "Header Background Image"
+msgstr ""
+
+#: admin/customizer-settings.php:1315
+msgid "Header Background Video"
+msgstr ""
+
+#: admin/customizer-settings.php:1297
+msgid "Header Bg Blur (Experimental)"
+msgstr ""
+
+#: admin/customizer-settings.php:1533
+msgid "Header Bg Shape"
+msgstr ""
+
+#: admin/customizer-settings.php:1560
+msgid "Header Bg Shape Height (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1650
+msgid "Header Border Bottom Radius (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1590
+msgid "Header Border Bottom Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1425
+msgid "Header Border Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1437
+msgid "Header Border Gradient Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1605
+msgid "Header Border Left Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1448
+msgid "Header Border Opacity"
+msgstr ""
+
+#: admin/customizer-settings.php:1620
+msgid "Header Border Right Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1635
+msgid "Header Border Top Radius (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1575
+msgid "Header Border Top Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1383
+msgid "Header Half Transparent Bg Opacity"
+msgstr ""
+
+#: admin/customizer-settings.php:1265
+msgid "Header Inner Style"
+msgstr ""
+
+#: admin/customizer-settings.php:1149
+msgid "Header Layout"
+msgstr ""
+
+#: admin/customizer-settings.php:1345
+msgid "Header Mask Color 1"
+msgstr ""
+
+#: admin/customizer-settings.php:1357
+msgid "Header Mask Color 2"
+msgstr ""
+
+#: admin/customizer-settings.php:1368
+msgid "Header Mask Opacity"
+msgstr ""
+
+#: admin/customizer-settings.php:1328
+msgid "Header Mask Style"
+msgstr ""
+
+#: admin/customizer-settings.php:1157
+msgid "Header One Row"
+msgstr ""
+
+#: admin/customizer-settings.php:1185
+msgid "Header Padding"
+msgstr ""
+
+#: admin/customizer-settings.php:1213
+msgid "Header Parallax Effect"
+msgstr ""
+
+#: admin/customizer-settings.php:1503
+msgid "Header Row Padding (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1487
+msgid "Header Search"
+msgstr ""
+
+#: admin/customizer-settings.php:1227
+msgid "Header Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:1158
+msgid "Header Small"
+msgstr ""
+
+#: admin/customizer-settings.php:1159
+msgid "Header Small Logo Center"
+msgstr ""
+
+#: admin/widget_area-register.php:116
+msgid "Header Social Media Icons"
+msgstr ""
+
+#: admin/customizer-settings.php:1248
+msgid "Header Sticky Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:1398
+msgid "Header Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1413
+msgid "Header Text Custom Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1281
+msgid "Header Transparent Style"
+msgstr ""
+
+#: admin/customizer-settings.php:1160
+msgid "Header Vertical Left"
+msgstr ""
+
+#: admin/customizer-settings.php:1161
+msgid "Header Vertical Right"
+msgstr ""
+
+#: admin/customizer-settings.php:1518
+msgid "Header Vertical Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1170
+msgid "Header Width"
+msgstr ""
+
+#: admin/customizer-settings.php:813
+msgid "Heading (H1) Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:800
+msgid "Heading Font (H1)"
+msgstr ""
+
+#: admin/customizer-settings.php:841
+msgid "Heading Font Text Transform (H1)"
+msgstr ""
+
+#: admin/customizer-settings.php:828
+msgid "Heading Font Weight (H1)"
+msgstr ""
+
+#: admin/customizer-settings.php:79
+msgid "Headings Text Color"
+msgstr ""
+
+#: admin/demo-import.php:181
+msgid "here"
+msgstr ""
+
+#: admin/customizer-settings.php:2281 admin/customizer-settings.php:4854
+#: admin/customizer-settings.php:4870 admin/customizer-settings.php:4886
+#: admin/customizer-settings.php:4914 admin/customizer-settings.php:4930
+#: admin/customizer-settings.php:4947 admin/customizer-settings.php:4964
+#: admin/customizer-settings.php:4980 admin/customizer-settings.php:4999
+#: admin/customizer-settings.php:5015 admin/customizer-settings.php:5031
+#: admin/customizer-settings.php:5059 admin/customizer-settings.php:5075
+#: admin/customizer-settings.php:5092 admin/customizer-settings.php:5109
+#: admin/customizer-settings.php:5125 admin/widget-main-slider.php:267
+msgid "Hidden"
+msgstr ""
+
+#: admin/customizer-settings.php:499 admin/customizer-settings.php:743
+#: admin/customizer-settings.php:758 admin/customizer-settings.php:3523
+msgid "Hide"
+msgstr ""
+
+#: admin/customizer-settings.php:4895 admin/customizer-settings.php:5040
+msgid "Hide Comment if count is 0"
+msgstr ""
+
+#: admin/meta-box-title-visibility.php:18
+msgid "Hide Title"
+msgstr ""
+
+#: admin/widget-main-slider.php:150
+msgid "Hinge"
+msgstr ""
+
+#: admin/customizer-settings.php:1332
+msgid "Horizontal Gradient"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/pixelwars"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/pixelwars/portfolio"
+msgstr ""
+
+#: admin/install-plugins.php:74
+msgid "I Recommend This"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:31
+msgid "Icon"
+msgstr ""
+
+#: admin/customizer-sections.php:66
+msgid "Icon Box"
+msgstr ""
+
+#: admin/customizer-settings.php:2445
+msgid "Icon Box Title Font"
+msgstr ""
+
+#: admin/customizer-settings.php:2459
+msgid "Icon Box Title Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2474
+msgid "Icon Box Title Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:2487
+msgid "Icon Box Title Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2502
+msgid "Icon Box Title Text Transform"
+msgstr ""
+
+#: admin/customizer-settings.php:4749
+msgid "Icons"
+msgstr ""
+
+#: admin/demo-import.php:179
+msgid ""
+"If your site is hosted on a server with an older PHP, you may experience "
+"issues. We recommend you to contact your hosting provider to upgrade to the "
+"latest version of PHP."
+msgstr ""
+
+#: admin/widget-about-me.php:29 admin/widget-intro.php:36
+#: admin/widget-link-box.php:43
+msgid "Image"
+msgstr ""
+
+#: admin/customizer-settings.php:3101 admin/customizer-settings.php:3919
+#: admin/customizer-settings.php:4304 admin/meta-box-post-style.php:43
+msgid "Image Left"
+msgstr ""
+
+#: admin/customizer-settings.php:509
+msgid "Image Logo"
+msgstr ""
+
+#: admin/customizer-settings.php:535
+msgid "Image Logo Height (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:550
+msgid "Image Logo Height Mobile (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:522
+msgid "Image Logo Negative"
+msgstr ""
+
+#: admin/customizer-settings.php:565
+msgid "Image Logo Sticky Height (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3102 admin/customizer-settings.php:3920
+#: admin/customizer-settings.php:4305 admin/meta-box-post-style.php:44
+msgid "Image Right"
+msgstr ""
+
+#: admin/demo-import.php:176
+msgid "Important:"
+msgstr ""
+
+#: admin/post-meta.php:11
+msgid "in"
+msgstr ""
+
+#: admin/customizer-settings.php:953
+msgid "Include All Font Weights (100-900)"
+msgstr ""
+
+#: admin/customizer-settings.php:4122
+msgid "Include to Blog"
+msgstr ""
+
+#: admin/customizer-settings.php:1298
+msgid "Incompatible with header smart sticky."
+msgstr ""
+
+#: admin/customizer-sections.php:123
+msgid "Individual post options."
+msgstr ""
+
+#: admin/customizer-settings.php:1252 admin/customizer-settings.php:1768
+msgid "Inherit"
+msgstr ""
+
+#: admin/meta-box-post-style.php:29 admin/meta-box-sidebar.php:28
+msgid "Inherit from Customizer"
+msgstr ""
+
+#: admin/meta-box-post-style.php:51
+msgid "Inherit from Customizer: Appearance > Customize > Pages > Page Style."
+msgstr ""
+
+#: admin/meta-box-post-style.php:59
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Portfolio > Post Style."
+msgstr ""
+
+#: admin/meta-box-sidebar.php:71
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Sidebar > Portfolio Post "
+"Sidebar."
+msgstr ""
+
+#: admin/meta-box-sidebar.php:67
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Sidebar > Post Sidebar."
+msgstr ""
+
+#: admin/meta-box-post-style.php:55
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Single Post > Post Style."
+msgstr ""
+
+#: admin/customizer-settings.php:1270 admin/customizer-settings.php:3372
+#: admin/customizer-settings.php:3616
+msgid "Inline Borders"
+msgstr ""
+
+#: admin/customizer-settings.php:1272
+msgid "Inline Borders Bold"
+msgstr ""
+
+#: admin/customizer-settings.php:1271
+msgid "Inline Borders Light"
+msgstr ""
+
+#: admin/customizer-settings.php:1239 admin/customizer-settings.php:1755
+msgid "Inset"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:36
+msgid "Instagram"
+msgstr ""
+
+#: admin/install-plugins.php:89
+msgid "Instagram Feed Gallery"
+msgstr ""
+
+#: admin/customizer-settings.php:4940 admin/customizer-settings.php:5085
+msgid "Install and activate \"I Recommend This\" plugin."
+msgstr ""
+
+#: admin/customizer-settings.php:4957 admin/customizer-settings.php:5102
+msgid "Install and activate \"Top 10 - Popular Posts\" plugin."
+msgstr ""
+
+#: admin/install-plugins.php:15
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/install-plugins.php:19
+msgid "Install Theme Plugins"
+msgstr ""
+
+#: admin/customizer-sections.php:177
+msgid "instead of this field."
+msgstr ""
+
+#: admin/customizer-settings.php:1306
+msgid "Intense"
+msgstr ""
+
+#: admin/customizer-sections.php:104
+msgid "Intro"
+msgstr ""
+
+#: admin/customizer-settings.php:3843
+msgid "Intro Font"
+msgstr ""
+
+#: admin/customizer-settings.php:3828
+msgid "Intro Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3856
+msgid "Intro Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:3869
+msgid "Intro Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3788
+msgid "Intro Mask Color"
+msgstr ""
+
+#: admin/customizer-settings.php:3799
+msgid "Intro Mask Opacity"
+msgstr ""
+
+#: admin/customizer-settings.php:3743
+msgid "Intro Text Align"
+msgstr ""
+
+#: admin/customizer-settings.php:3758
+msgid "Intro Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:3884
+msgid "Intro Text Transform"
+msgstr ""
+
+#: admin/customizer-settings.php:3772
+msgid "Intro Top-Bottom Padding"
+msgstr ""
+
+#: admin/widget-intro.php:11
+msgid "Intro widget."
+msgstr ""
+
+#: admin/widget-main-slider.php:162
+msgid "Invert"
+msgstr ""
+
+#: functions.php:279
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: admin/widget-main-slider.php:149
+msgid "Jack In The Box"
+msgstr ""
+
+#: admin/widget-main-slider.php:123
+msgid "Jello"
+msgstr ""
+
+#: admin/widget-main-slider.php:126
+msgid "Jello Horizontal"
+msgstr ""
+
+#: admin/widget-main-slider.php:127
+msgid "Jello Horizontal Big"
+msgstr ""
+
+#: admin/widget-main-slider.php:124
+msgid "Jello Vertical"
+msgstr ""
+
+#: admin/widget-main-slider.php:125
+msgid "Jello Vertical Big"
+msgstr ""
+
+#: admin/demo-import.php:115
+msgid "Jim"
+msgstr ""
+
+#: admin/demo-import.php:73
+msgid "John"
+msgstr ""
+
+#: admin/demo-import.php:122
+msgid "Judy Froster"
+msgstr ""
+
+#: admin/widget-main-slider.php:156
+msgid "Jump In"
+msgstr ""
+
+#: admin/customizer-settings.php:3370 admin/customizer-settings.php:3614
+msgid "Label"
+msgstr ""
+
+#: admin/customizer-settings.php:3371 admin/customizer-settings.php:3615
+msgid "Label Rotated"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:55
+msgid "Last.fm"
+msgstr ""
+
+#: page_template-latest_posts.php:71
+msgid "Latest From The Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Latest Posts"
+msgstr ""
+
+#: admin/widget-main-slider.php:54
+msgid "Latest posts"
+msgstr ""
+
+#: admin/customizer-settings.php:968
+msgid "Latin Characters"
+msgstr ""
+
+#: admin/customizer-settings.php:980
+msgid "Latin Characters (extended)"
+msgstr ""
+
+#: admin/customizer-settings.php:1238 admin/customizer-settings.php:1754
+msgid "Layers"
+msgstr ""
+
+#: admin/customizer-sections.php:11
+msgid "Layout"
+msgstr ""
+
+#: comments.php:57
+msgid "Leave A Comment"
+msgstr ""
+
+#: admin/customizer-settings.php:772 admin/customizer-settings.php:787
+#: admin/customizer-settings.php:1733 admin/customizer-settings.php:2162
+#: admin/customizer-settings.php:2743 admin/customizer-settings.php:2893
+#: admin/customizer-settings.php:2935 admin/customizer-settings.php:2949
+#: admin/customizer-settings.php:3552 admin/customizer-settings.php:3582
+#: admin/customizer-settings.php:3701 admin/customizer-settings.php:3748
+#: admin/customizer-settings.php:4078 admin/customizer-settings.php:4358
+#: admin/customizer-settings.php:4463 admin/customizer-settings.php:4554
+msgid "Left"
+msgstr ""
+
+#: admin/customizer-settings.php:1189
+msgid "Left and Right"
+msgstr ""
+
+#: admin/customizer-settings.php:1190
+msgid "Left Only"
+msgstr ""
+
+#: admin/customizer-settings.php:1977
+msgid "Legacy"
+msgstr ""
+
+#: admin/customizer-settings.php:1403 admin/customizer-settings.php:1964
+#: admin/customizer-settings.php:2022 admin/customizer-settings.php:2146
+#: admin/customizer-settings.php:2294 admin/customizer-settings.php:2607
+#: admin/customizer-settings.php:3354 admin/customizer-settings.php:3763
+msgid "Light"
+msgstr ""
+
+#: admin/customizer-settings.php:2147
+msgid "Light Border"
+msgstr ""
+
+#: admin/widget-main-slider.php:148
+msgid "Light Speed"
+msgstr ""
+
+#: admin/customizer-settings.php:4939 admin/customizer-settings.php:5084
+msgid "Like"
+msgstr ""
+
+#: admin/customizer-settings.php:144
+msgid "Line"
+msgstr ""
+
+#: admin/customizer-settings.php:3495 admin/customizer-settings.php:4775
+msgid "Line Before"
+msgstr ""
+
+#: admin/customizer-settings.php:2973
+msgid "Line Cut"
+msgstr ""
+
+#: admin/customizer-settings.php:2974
+msgid "Line Cut Center"
+msgstr ""
+
+#: admin/customizer-settings.php:1551
+msgid "Lines"
+msgstr ""
+
+#: admin/customizer-sections.php:98
+msgid "Link Box"
+msgstr ""
+
+#: admin/customizer-settings.php:3726
+msgid "Link Box Parallax Effect"
+msgstr ""
+
+#: admin/customizer-settings.php:3696
+msgid "Link Box Text Align"
+msgstr ""
+
+#: admin/customizer-settings.php:3682
+msgid "Link Box Text Transform"
+msgstr ""
+
+#: admin/customizer-settings.php:3626
+msgid "Link Box Title Font"
+msgstr ""
+
+#: admin/customizer-settings.php:3639
+msgid "Link Box Title Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:3652
+msgid "Link Box Title Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3609
+msgid "Link Box Title Style"
+msgstr ""
+
+#: admin/customizer-settings.php:3667
+msgid "Link Box Title Text Ratio"
+msgstr ""
+
+#: admin/customizer-settings.php:3711
+msgid "Link Box Vertical Align"
+msgstr ""
+
+#: admin/widget-link-box.php:10
+msgid "Link box widget."
+msgstr ""
+
+#: admin/customizer-settings.php:35
+msgid "Link Color"
+msgstr ""
+
+#: admin/customizer-settings.php:57
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/customizer-settings.php:4763
+msgid "Link Style"
+msgstr ""
+
+#: admin/widget-link-box.php:30
+msgid "Link URL"
+msgstr ""
+
+#: admin/meta-box-featured-media.php:37
+msgid "Link: Enter your custom url."
+msgstr ""
+
+#: admin/widget-social-media-icon.php:43
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/demo-import.php:52
+msgid "Lisa"
+msgstr ""
+
+#: admin/customizer-settings.php:3982
+msgid "List"
+msgstr ""
+
+#: admin/install-plugins.php:84
+msgid "Loco Translate"
+msgstr ""
+
+#: admin/widget_area-register.php:176
+msgid "Logo After"
+msgstr ""
+
+#: admin/widget_area-register.php:164
+msgid "Logo Before"
+msgstr ""
+
+#: admin/customizer-settings.php:705
+msgid "Logo Behaviour"
+msgstr ""
+
+#: admin/customizer-settings.php:637
+msgid "Logo Bg Color"
+msgstr ""
+
+#: admin/customizer-settings.php:649
+msgid "Logo Bg Gradient Color"
+msgstr ""
+
+#: admin/customizer-settings.php:660
+msgid "Logo Bg Stretch Left"
+msgstr ""
+
+#: admin/customizer-settings.php:690
+msgid "Logo Border Radius (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:610
+msgid "Logo Container Width"
+msgstr ""
+
+#: admin/customizer-settings.php:719
+msgid "Logo Hover Effect"
+msgstr ""
+
+#: admin/customizer-settings.php:580
+msgid "Logo Margin (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:595
+msgid "Logo Margin Mobile (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:675
+msgid "Logo Padding (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:625
+msgid "Logo Text Color"
+msgstr ""
+
+#: admin/widget-main-slider.php:241
+msgid "Loop"
+msgstr ""
+
+#: admin/demo-import.php:66
+msgid "Lori"
+msgstr ""
+
+#: admin/install-plugins.php:99
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: admin/customizer-settings.php:2259
+msgid ""
+"Make sticky Header/Menu width always full even the Header/Menu layout is "
+"fixed width"
+msgstr ""
+
+#: admin/customizer-settings.php:2005
+msgid "Marker"
+msgstr ""
+
+#: admin/customizer-settings.php:2006
+msgid "Marker Bold"
+msgstr ""
+
+#: admin/customizer-settings.php:2007
+msgid "Marker Horizontal"
+msgstr ""
+
+#: admin/customizer-settings.php:2008
+msgid "Marker Horizontal Bold"
+msgstr ""
+
+#: admin/customizer-settings.php:3156 admin/customizer-settings.php:3190
+#: admin/customizer-settings.php:4092
+msgid "Masonry"
+msgstr ""
+
+#: admin/customizer-settings.php:1304 admin/widget-social-media-icon.php:40
+msgid "Medium"
+msgstr ""
+
+#. Name of the template
+msgid "Medium width"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:74
+msgid "Meetup"
+msgstr ""
+
+#: admin/customizer-sections.php:54
+msgid "Menu"
+msgstr ""
+
+#: admin/customizer-settings.php:2044
+msgid "Menu Active Link Bg-Border Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2032
+msgid "Menu Active Link Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1728
+msgid "Menu Align"
+msgstr ""
+
+#: admin/customizer-settings.php:2080
+msgid "Menu Background Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2092
+msgid "Menu Background Gradient Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1668
+msgid "Menu Behaviour"
+msgstr ""
+
+#: admin/customizer-settings.php:1927
+msgid "Menu Border Bottom Radius (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1867
+msgid "Menu Border Bottom Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2104
+msgid "Menu Border Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2116
+msgid "Menu Border Gradient Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1882
+msgid "Menu Border Left Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2127
+msgid "Menu Border Opacity"
+msgstr ""
+
+#: admin/customizer-settings.php:1897
+msgid "Menu Border Right Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1912
+msgid "Menu Border Top Radius (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1852
+msgid "Menu Border Top Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1155
+msgid "Menu Bottom"
+msgstr ""
+
+#: admin/customizer-settings.php:1156
+msgid "Menu Bottom Overflow"
+msgstr ""
+
+#: admin/customizer-settings.php:1781
+msgid "Menu Font"
+msgstr ""
+
+#: admin/customizer-settings.php:1795
+msgid "Menu Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1810
+msgid "Menu Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:1698
+msgid "Menu Height (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1823
+msgid "Menu Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2068
+msgid "Menu Link Hover Bg-Border Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1973
+msgid "Menu Link Hover Style"
+msgstr ""
+
+#: admin/customizer-settings.php:2056
+msgid "Menu Link Hover Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1942
+msgid "Menu Links Borders"
+msgstr ""
+
+#: admin/customizer-settings.php:1958
+msgid "Menu Links Borders Style"
+msgstr ""
+
+#: admin/customizer-settings.php:1743
+msgid "Menu Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:1713
+msgid "Menu Sticky Height (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1764
+msgid "Menu Sticky Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:2017
+msgid "Menu Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1838
+msgid "Menu Text Transform"
+msgstr ""
+
+#: admin/customizer-settings.php:1153
+msgid "Menu Top"
+msgstr ""
+
+#: admin/customizer-settings.php:1154
+msgid "Menu Top Logo Overflow"
+msgstr ""
+
+#: admin/customizer-settings.php:1683
+msgid "Menu Width"
+msgstr ""
+
+#: admin/customizer-sections.php:129
+msgid "Meta"
+msgstr ""
+
+#: admin/customizer-settings.php:4790
+msgid "Meta Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:4805
+msgid "Meta Font Weight"
+msgstr ""
+
+#: admin/customizer-sections.php:130
+msgid "Meta options."
+msgstr ""
+
+#: admin/customizer-settings.php:4744
+msgid "Meta Prefix Style"
+msgstr ""
+
+#: admin/customizer-sections.php:135
+msgid "Meta style options."
+msgstr ""
+
+#: admin/customizer-settings.php:4818
+msgid "Meta Text Transform"
+msgstr ""
+
+#: admin/customizer-settings.php:1061
+msgid "Middle Boxed"
+msgstr ""
+
+#: admin/demo-import.php:24
+msgid "Milo"
+msgstr ""
+
+#: admin/customizer-settings.php:1269 admin/customizer-settings.php:1285
+#: admin/customizer-settings.php:2322 admin/customizer-settings.php:2963
+#: admin/customizer-settings.php:3536 admin/customizer-settings.php:4135
+#: admin/customizer-settings.php:4417 admin/customizer-settings.php:4447
+#: admin/customizer-settings.php:4537 admin/customizer-settings.php:4683
+#: admin/customizer-settings.php:4715
+msgid "Minimal"
+msgstr ""
+
+#: admin/demo-import.php:45
+msgid "Misty"
+msgstr ""
+
+#: admin/customizer-settings.php:1116
+msgid "Mobile Zoom"
+msgstr ""
+
+#: admin/demo-import.php:38
+msgid "Mona"
+msgstr ""
+
+#: admin/archive-title.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: admin/customizer-settings.php:1305
+msgid "More"
+msgstr ""
+
+#: admin/widget-about-me.php:101
+msgid "more"
+msgstr ""
+
+#: admin/customizer-settings.php:4131
+msgid "More Link Style"
+msgstr ""
+
+#: admin/customizer-settings.php:4148
+msgid "More Link Text"
+msgstr ""
+
+#: admin/widget-about-me.php:44
+msgid "More Link URL"
+msgstr ""
+
+#: admin/widget-main-slider.php:177
+msgid "Mouse Drag"
+msgstr ""
+
+#: admin/demo-import.php:180
+msgid "MySQL 5.6 or Greater:"
+msgstr ""
+
+#: admin/demo-import.php:180
+msgid "MySQL version 5.6 or greater or MariaDB version 10.0 or greater."
+msgstr ""
+
+#: admin/customizer-settings.php:154
+msgid "Naked"
+msgstr ""
+
+#: admin/customizer-settings.php:3142
+msgid "Narrow"
+msgstr ""
+
+#: admin/widget-main-slider.php:188
+msgid "Nav Arrows"
+msgstr ""
+
+#: admin/widget-main-slider.php:199
+msgid "Nav Dots"
+msgstr ""
+
+#: comments.php:45
+msgid "Newer Comments"
+msgstr ""
+
+#: admin/navigation-archive.php:32
+msgid "Newer Posts"
+msgstr ""
+
+#: admin/navigation-archive.php:11
+msgid "Next"
+msgstr ""
+
+#: admin/navigation-single.php:21
+msgid "Next Image"
+msgstr ""
+
+#: admin/navigation-single.php:90
+msgid "Next Post"
+msgstr ""
+
+#: admin/customizer-settings.php:665 admin/customizer-settings.php:958
+#: admin/customizer-settings.php:1122 admin/customizer-settings.php:1136
+#: admin/customizer-settings.php:1217 admin/customizer-settings.php:1493
+#: admin/customizer-settings.php:2775 admin/customizer-settings.php:2790
+#: admin/customizer-settings.php:2807 admin/customizer-settings.php:2824
+#: admin/customizer-settings.php:2841 admin/customizer-settings.php:2858
+#: admin/customizer-settings.php:2875 admin/customizer-settings.php:2907
+#: admin/customizer-settings.php:3395 admin/customizer-settings.php:3730
+#: admin/customizer-settings.php:3818 admin/customizer-settings.php:4168
+#: admin/customizer-settings.php:4403 admin/customizer-settings.php:4433
+#: admin/customizer-settings.php:4480 admin/customizer-settings.php:4507
+#: admin/customizer-settings.php:4524 admin/customizer-settings.php:4571
+#: admin/customizer-settings.php:4598 admin/widget-intro.php:86
+#: admin/widget-link-box.php:38 admin/widget-main-slider.php:181
+#: admin/widget-main-slider.php:193 admin/widget-main-slider.php:204
+#: admin/widget-main-slider.php:214 admin/widget-main-slider.php:234
+#: admin/widget-main-slider.php:246 admin/widget-main-slider.php:257
+#: admin/widget-social-media-icon.php:90
+msgid "No"
+msgstr ""
+
+#: admin/meta-box-featured-area.php:19
+msgid "No Featured Area"
+msgstr ""
+
+#: admin/meta-box-sidebar.php:32
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:224 admin/customizer-settings.php:414
+#: admin/customizer-settings.php:484 admin/customizer-settings.php:723
+#: admin/customizer-settings.php:845 admin/customizer-settings.php:885
+#: admin/customizer-settings.php:1231 admin/customizer-settings.php:1302
+#: admin/customizer-settings.php:1537 admin/customizer-settings.php:1747
+#: admin/customizer-settings.php:1843 admin/customizer-settings.php:1946
+#: admin/customizer-settings.php:2308 admin/customizer-settings.php:2506
+#: admin/customizer-settings.php:2576 admin/customizer-settings.php:2688
+#: admin/customizer-settings.php:2702 admin/customizer-settings.php:3465
+#: admin/customizer-settings.php:3686 admin/customizer-settings.php:3888
+#: admin/customizer-settings.php:4748 admin/customizer-settings.php:4823
+#: admin/widget-main-slider.php:279 admin/widget-main-slider.php:289
+msgid "None"
+msgstr ""
+
+#: functions.php:239 functions.php:268
+msgid "nothing found"
+msgstr ""
+
+#: admin/customizer-settings.php:4660
+msgid "Number of posts to show."
+msgstr ""
+
+#: admin/customizer-settings.php:3224
+msgid "Number of products displayed per page."
+msgstr ""
+
+#: admin/customizer-settings.php:3250
+msgid "Number of products to show."
+msgstr ""
+
+#: admin/customizer-settings.php:4274
+msgid "Numbered Pagination"
+msgstr ""
+
+#: admin/customizer-settings.php:1236 admin/customizer-settings.php:1752
+msgid "Offset"
+msgstr ""
+
+#: comments.php:40
+msgid "Older Comments"
+msgstr ""
+
+#: admin/navigation-archive.php:27
+msgid "Older Posts"
+msgstr ""
+
+#: admin/customizer-settings.php:4273
+msgid "Older/Newer Links"
+msgstr ""
+
+#: admin/demo-import.php:108
+msgid "Oliver"
+msgstr ""
+
+#: admin/post-meta.php:28
+msgid "on"
+msgstr ""
+
+#: admin/install-plugins.php:69
+msgid "One Click Demo Import"
+msgstr ""
+
+#: admin/customizer-settings.php:661
+msgid "Only available with header small layouts."
+msgstr ""
+
+#: admin/meta-box-featured-media.php:21
+msgid "Open In New Tab"
+msgstr ""
+
+#: admin/widget-intro.php:84 admin/widget-link-box.php:35
+#: admin/widget-social-media-icon.php:86
+msgid "Open link in new tab"
+msgstr ""
+
+#: admin/customizer-settings.php:4643
+msgid "Order by date"
+msgstr ""
+
+#: admin/customizer-settings.php:4644
+msgid "Order by number of comments"
+msgstr ""
+
+#: admin/customizer-settings.php:3382
+msgid "Outline"
+msgstr ""
+
+#: admin/customizer-settings.php:3326 admin/customizer-settings.php:4389
+#: admin/customizer-settings.php:4613 admin/widget-main-slider.php:263
+msgid "Overflow"
+msgstr ""
+
+#: admin/customizer-settings.php:3095 admin/customizer-settings.php:3913
+#: admin/customizer-settings.php:4298 admin/customizer-settings.php:4584
+#: admin/meta-box-post-style.php:37
+msgid "Overlay"
+msgstr ""
+
+#: admin/customizer-settings.php:3097 admin/customizer-settings.php:3915
+#: admin/customizer-settings.php:4300 admin/meta-box-post-style.php:39
+msgid "Overlay Full"
+msgstr ""
+
+#: admin/customizer-settings.php:3098 admin/customizer-settings.php:3916
+#: admin/customizer-settings.php:4301 admin/meta-box-post-style.php:40
+msgid "Overlay Full with Margins"
+msgstr ""
+
+#: admin/customizer-settings.php:3099 admin/customizer-settings.php:3917
+#: admin/customizer-settings.php:4302 admin/meta-box-post-style.php:41
+msgid "Overlay Fullscreen"
+msgstr ""
+
+#: admin/customizer-settings.php:3096 admin/customizer-settings.php:3914
+#: admin/customizer-settings.php:4299 admin/meta-box-post-style.php:38
+msgid "Overlay Medium"
+msgstr ""
+
+#: admin/customizer-settings.php:1980
+msgid "Overline"
+msgstr ""
+
+#: admin/navigation-archive.php:14 woocommerce/loop/pagination.php:51
+msgid "Page"
+msgstr ""
+
+#: admin/meta-box-featured-area.php:21 admin/widget_area-register.php:80
+msgid "Page Featured Area"
+msgstr ""
+
+#: admin/customizer-settings.php:3929
+msgid "Page Header Style"
+msgstr ""
+
+#: admin/customizer-settings.php:3136
+msgid "Page Layout"
+msgstr ""
+
+#: admin/meta-box-sidebar.php:35 admin/widget_area-register.php:32
+msgid "Page Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:3901 admin/meta-box-post-style.php:124
+msgid "Page Style"
+msgstr ""
+
+#: admin/customizer-settings.php:1101
+msgid "Page/Post Content Width (px)"
+msgstr ""
+
+#: admin/customizer-sections.php:112
+msgid "Pages"
+msgstr ""
+
+#: admin/automatic-excerpt.php:127
+msgid "Pages:"
+msgstr ""
+
+#: admin/customizer-settings.php:151
+msgid "Paper"
+msgstr ""
+
+#: admin/customizer-settings.php:1998
+msgid "Paper Tear"
+msgstr ""
+
+#: admin/customizer-settings.php:3814
+msgid "Parallax Background Image"
+msgstr ""
+
+#: admin/demo-import.php:31
+msgid "Phil"
+msgstr ""
+
+#: admin/demo-import.php:179
+msgid "PHP 7 or Greater:"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:68
+msgid "Picasa"
+msgstr ""
+
+#: functions.php:89
+msgid "Pingback:"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:44
+msgid "Pinterest"
+msgstr ""
+
+#. Author of the theme
+msgid "Pixelwars"
+msgstr ""
+
+#: admin/install-plugins.php:25
+msgid "Pixelwars Core"
+msgstr ""
+
+#: admin/install-plugins.php:36
+msgid "Pixelwars Core Shortcodes - (Optional)"
+msgstr ""
+
+#: admin/demo-import.php:176
+msgid ""
+"Please check the following system requirements you need in order to import "
+"demo data. (If you are not sure whether or not your server support this, "
+"contact your host.)"
+msgstr ""
+
+#: footer.php:145
+msgid "Please enter a multiple of {0}."
+msgstr ""
+
+#: footer.php:135
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: footer.php:134
+msgid "Please enter a valid date."
+msgstr ""
+
+#: footer.php:132
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: footer.php:136
+msgid "Please enter a valid number."
+msgstr ""
+
+#: footer.php:133
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: footer.php:141
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: footer.php:142
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: footer.php:144
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: footer.php:143
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: footer.php:140
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: footer.php:139
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: footer.php:137
+msgid "Please enter only digits."
+msgstr ""
+
+#: footer.php:138
+msgid "Please enter the same value again."
+msgstr ""
+
+#: footer.php:131
+msgid "Please fix this field."
+msgstr ""
+
+#. Name of the template
+#: admin/customizer-sections.php:159
+msgid "Portfolio"
+msgstr ""
+
+#: admin/customizer-settings.php:2817
+msgid "Portfolio Category Sidebar"
+msgstr ""
+
+#: admin/meta-box-featured-area.php:22 admin/widget_area-register.php:92
+msgid "Portfolio Featured Area"
+msgstr ""
+
+#: admin/customizer-sections.php:160
+msgid "Portfolio page options."
+msgstr ""
+
+#: admin/customizer-settings.php:2834
+msgid "Portfolio Post Sidebar"
+msgstr ""
+
+#: admin/meta-box-sidebar.php:36 admin/widget_area-register.php:44
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:3111 admin/customizer-settings.php:4314
+msgid "Post Header Style"
+msgstr ""
+
+#: admin/customizer-settings.php:4383
+msgid "Post Media Width"
+msgstr ""
+
+#: admin/customizer-sections.php:147
+msgid "Post meta options."
+msgstr ""
+
+#: admin/customizer-settings.php:4473
+msgid "Post Navigation"
+msgstr ""
+
+#: admin/customizer-settings.php:4503
+msgid "Post Navigation Animated"
+msgstr ""
+
+#: admin/customizer-settings.php:4489
+msgid "Post Navigation Image"
+msgstr ""
+
+#: admin/customizer-settings.php:2800 admin/meta-box-sidebar.php:34
+#: admin/widget_area-register.php:20
+msgid "Post Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:3083 admin/customizer-settings.php:4286
+#: admin/meta-box-post-style.php:119
+msgid "Post Style"
+msgstr ""
+
+#: admin/customizer-settings.php:4339
+msgid "Post Title Style"
+msgstr ""
+
+#: admin/customizer-settings.php:4344
+msgid "Post Title with Margins"
+msgstr ""
+
+#: admin/customizer-settings.php:4353
+msgid "Post-Page Title Text Align"
+msgstr ""
+
+#: admin/customizer-settings.php:1062
+msgid "Posts Boxed"
+msgstr ""
+
+#: admin/navigation-archive.php:9
+msgid "Posts navigation"
+msgstr ""
+
+#: admin/archive-title.php:45
+msgid "Posts Published by"
+msgstr ""
+
+#: admin/archive-title.php:30
+msgid "Posts tagged"
+msgstr ""
+
+#: admin/customizer-settings.php:4750
+msgid "Prefix Text"
+msgstr ""
+
+#: admin/navigation-archive.php:10
+msgid "Prev"
+msgstr ""
+
+#: admin/navigation-single.php:14
+msgid "Previous Image"
+msgstr ""
+
+#: admin/navigation-single.php:56
+msgid "Previous Post"
+msgstr ""
+
+#: admin/customizer-settings.php:277
+msgid "Primary Button Border Radius (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:241
+msgid "Primary Button Color"
+msgstr ""
+
+#: admin/customizer-settings.php:263
+msgid "Primary Button Hover Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2851
+msgid "Product Category Sidebar"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:33
+msgid "Product navigation"
+msgstr ""
+
+#: admin/customizer-settings.php:3223
+msgid "Products Per Page"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:71
+msgid "Quora"
+msgstr ""
+
+#: admin/customizer-settings.php:1334
+msgid "Radial Gradient"
+msgstr ""
+
+#: admin/customizer-settings.php:4642
+msgid "Random order"
+msgstr ""
+
+#: admin/widget-link-box.php:63 admin/widget-main-slider.php:94
+msgid "Ratio"
+msgstr ""
+
+#: admin/automatic-excerpt.php:39
+msgid "Read More"
+msgstr ""
+
+#: admin/install-plugins.php:114
+msgid "Reading Progressbar"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:73
+msgid "Reddit"
+msgstr ""
+
+#: admin/install-plugins.php:79
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: admin/customizer-settings.php:3980
+msgid "Regular"
+msgstr ""
+
+#: admin/customizer-settings.php:4764
+msgid "Regular Text"
+msgstr ""
+
+#: admin/customizer-settings.php:4564
+msgid "Related Posts"
+msgstr ""
+
+#: admin/customizer-settings.php:4622
+msgid "Related Posts Category"
+msgstr ""
+
+#: admin/customizer-settings.php:4659
+msgid "Related Posts Count"
+msgstr ""
+
+#: admin/customizer-settings.php:4637
+msgid "Related Posts Order"
+msgstr ""
+
+#: admin/customizer-settings.php:4594
+msgid "Related Posts Parallax Effect"
+msgstr ""
+
+#: admin/customizer-settings.php:4580
+msgid "Related Posts Style"
+msgstr ""
+
+#: admin/customizer-settings.php:4608
+msgid "Related Posts Width"
+msgstr ""
+
+#: admin/customizer-settings.php:3249
+msgid "Related Products Count"
+msgstr ""
+
+#: functions.php:155
+msgid "Reply"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Responsive WordPress theme. Install and activate Pixelwars Core plugin for "
+"advanced features. (Appearance &gt; Install Plugins)"
+msgstr ""
+
+#: admin/customizer-settings.php:3378
+msgid "Retro Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:3379
+msgid "Retro Skew"
+msgstr ""
+
+#: 404.php:29 functions.php:223
+msgid "Return To Homepage"
+msgstr ""
+
+#: admin/widget-main-slider.php:252
+msgid "Rewind"
+msgstr ""
+
+#: admin/customizer-settings.php:1549 admin/customizer-settings.php:1996
+#: admin/customizer-settings.php:2964 admin/customizer-settings.php:3488
+#: admin/customizer-settings.php:4776
+msgid "Ribbon"
+msgstr ""
+
+#: admin/customizer-settings.php:3491 admin/customizer-settings.php:4779
+msgid "Ribbon Dark"
+msgstr ""
+
+#: admin/customizer-settings.php:3492 admin/customizer-settings.php:4780
+msgid "Ribbon Dark Left"
+msgstr ""
+
+#: admin/customizer-settings.php:3493 admin/customizer-settings.php:4781
+msgid "Ribbon Dark Right"
+msgstr ""
+
+#: admin/customizer-settings.php:3489 admin/customizer-settings.php:4777
+msgid "Ribbon Left"
+msgstr ""
+
+#: admin/customizer-settings.php:3490 admin/customizer-settings.php:4778
+msgid "Ribbon Right"
+msgstr ""
+
+#: admin/customizer-settings.php:1550
+msgid "Ribbon Round"
+msgstr ""
+
+#: admin/customizer-settings.php:773 admin/customizer-settings.php:788
+#: admin/customizer-settings.php:1734 admin/customizer-settings.php:2163
+#: admin/customizer-settings.php:2892 admin/customizer-settings.php:3553
+#: admin/customizer-settings.php:3583 admin/customizer-settings.php:3702
+#: admin/customizer-settings.php:3749 admin/customizer-settings.php:4079
+#: admin/customizer-settings.php:4359
+msgid "Right"
+msgstr ""
+
+#: admin/customizer-settings.php:1191
+msgid "Right Only"
+msgstr ""
+
+#: admin/demo-import.php:87
+msgid "Roger"
+msgstr ""
+
+#: admin/widget-main-slider.php:151
+msgid "Rotate"
+msgstr ""
+
+#: admin/widget-main-slider.php:153
+msgid "Rotate Down Switch"
+msgstr ""
+
+#: admin/widget-main-slider.php:154
+msgid "Rotate Horizontal"
+msgstr ""
+
+#: admin/customizer-settings.php:2190
+msgid "Rotate In"
+msgstr ""
+
+#: admin/widget-main-slider.php:152
+msgid "Rotate Up Switch"
+msgstr ""
+
+#: admin/widget-main-slider.php:155
+msgid "Rotate Vertical"
+msgstr ""
+
+#: admin/customizer-settings.php:1538
+msgid "Round"
+msgstr ""
+
+#: admin/customizer-settings.php:1539
+msgid "Round Layers"
+msgstr ""
+
+#: admin/customizer-settings.php:3056 admin/customizer-settings.php:3340
+#: admin/customizer-settings.php:4493
+msgid "Rounded"
+msgstr ""
+
+#: admin/widget-about-me.php:53
+msgid "Rounded Image"
+msgstr ""
+
+#: admin/customizer-settings.php:3597
+msgid "Rounded Line Grow"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:77
+msgid "RSS"
+msgstr ""
+
+#: admin/widget-main-slider.php:133
+msgid "Rubber Band"
+msgstr ""
+
+#: admin/widget-main-slider.php:136
+msgid "Rubber Band Horizontal"
+msgstr ""
+
+#: admin/widget-main-slider.php:137
+msgid "Rubber Band Horizontal Big"
+msgstr ""
+
+#: admin/widget-main-slider.php:134
+msgid "Rubber Band Vertical"
+msgstr ""
+
+#: admin/widget-main-slider.php:135
+msgid "Rubber Band Vertical Big"
+msgstr ""
+
+#: woocommerce/content-product.php:62
+msgid "Sale"
+msgstr ""
+
+#: admin/customizer-settings.php:4628
+msgid "Same category"
+msgstr ""
+
+#: admin/widget-main-slider.php:116
+msgid "Scale"
+msgstr ""
+
+#: header.php:200
+msgid "Search"
+msgstr ""
+
+#: header.php:195
+msgid "Search for"
+msgstr ""
+
+#: admin/customizer-settings.php:4060
+msgid "Search Result"
+msgstr ""
+
+#: admin/customizer-settings.php:336
+msgid "Secondary Button Border Radius (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:300
+msgid "Secondary Button Color"
+msgstr ""
+
+#: admin/customizer-settings.php:322
+msgid "Secondary Button Hover Color"
+msgstr ""
+
+#: page_template-latest_posts.php:115
+msgid "See All Posts"
+msgstr ""
+
+#: admin/meta-box-featured-area.php:14
+msgid "Select Featured Area"
+msgstr ""
+
+#: admin/meta-box-gallery-type.php:14
+msgid "Select Gallery Type"
+msgstr ""
+
+#: admin/customizer-settings.php:3959
+msgid ""
+"Select header style if you have set latest posts as your homepage, otherwise "
+"you can select header style in single page edit screen."
+msgstr ""
+
+#: admin/meta-box-post-style.php:20
+msgid "Select Page Style:"
+msgstr ""
+
+#: admin/meta-box-post-style.php:15
+msgid "Select Post Style:"
+msgstr ""
+
+#: admin/meta-box-sidebar.php:14
+msgid "Select Sidebar:"
+msgstr ""
+
+#: admin/widget_area-register.php:33
+msgid ""
+"Select this sidebar in edit screen of a page to display it with this sidebar."
+msgstr ""
+
+#: admin/widget_area-register.php:45
+msgid ""
+"Select this sidebar in edit screen of your portfolio page. Also this sidebar "
+"can be used for portfolio categories and portfolio posts when activated from "
+"Customizer > Sidebar."
+msgstr ""
+
+#: admin/install-plugins.php:104
+msgid "Selection Sharer"
+msgstr ""
+
+#: admin/customizer-sections.php:24
+msgid "Set character sets."
+msgstr ""
+
+#: admin/customizer-settings.php:149 admin/customizer-settings.php:2324
+msgid "Shadow"
+msgstr ""
+
+#: admin/customizer-settings.php:2325
+msgid "Shadow Inset"
+msgstr ""
+
+#: admin/customizer-settings.php:150
+msgid "Shadow Light"
+msgstr ""
+
+#: admin/customizer-settings.php:4923 admin/customizer-settings.php:5068
+msgid "Share"
+msgstr ""
+
+#: admin/customizer-settings.php:4427
+msgid "Share Links"
+msgstr ""
+
+#: admin/customizer-settings.php:4459
+msgid "Share Links Align"
+msgstr ""
+
+#: admin/customizer-settings.php:4443
+msgid "Share Links Style"
+msgstr ""
+
+#: admin/customizer-settings.php:3339
+msgid "Sharp Edges"
+msgstr ""
+
+#: admin/customizer-settings.php:152
+msgid "Shift"
+msgstr ""
+
+#: admin/customizer-settings.php:724
+msgid "Shine"
+msgstr ""
+
+#: admin/customizer-sections.php:164
+msgid "Shop"
+msgstr ""
+
+#: admin/meta-box-featured-area.php:23 admin/widget_area-register.php:104
+msgid "Shop Featured Area"
+msgstr ""
+
+#: admin/customizer-sections.php:165
+msgid "Shop page options."
+msgstr ""
+
+#: admin/meta-box-sidebar.php:37 admin/widget_area-register.php:56
+msgid "Shop Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:498 admin/customizer-settings.php:3521
+msgid "Show"
+msgstr ""
+
+#: admin/customizer-settings.php:2278
+msgid "Show All"
+msgstr ""
+
+#: admin/widget-main-slider.php:68
+msgid "Show Items"
+msgstr ""
+
+#: admin/customizer-settings.php:2279
+msgid "Show Left"
+msgstr ""
+
+#: admin/customizer-settings.php:742 admin/customizer-settings.php:757
+msgid "Show on any device"
+msgstr ""
+
+#: admin/customizer-settings.php:741 admin/customizer-settings.php:756
+msgid "Show on desktop only"
+msgstr ""
+
+#: admin/customizer-settings.php:3522
+msgid "Show on Hover"
+msgstr ""
+
+#: admin/customizer-settings.php:2280
+msgid "Show Right"
+msgstr ""
+
+#: admin/customizer-settings.php:1947
+msgid "Side"
+msgstr ""
+
+#: admin/customizer-settings.php:1949
+msgid "Side and Bottom"
+msgstr ""
+
+#: admin/customizer-settings.php:1948
+msgid "Side and Top"
+msgstr ""
+
+#: admin/customizer-sections.php:154 admin/meta-box-sidebar.php:136
+msgid "Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:2916
+msgid "Sidebar Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2888
+msgid "Sidebar Position"
+msgstr ""
+
+#: admin/customizer-settings.php:2931
+msgid "Sidebar Widgets Text Align"
+msgstr ""
+
+#: admin/customizer-settings.php:3065
+msgid "Sidebar Width (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:1237 admin/customizer-settings.php:1753
+msgid "Sides"
+msgstr ""
+
+#: admin/customizer-sections.php:122
+msgid "Single Post"
+msgstr ""
+
+#: admin/customizer-sections.php:146
+msgid "Single Post Meta"
+msgstr ""
+
+#: admin/customizer-settings.php:2868
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:728
+msgid "Skew"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:50
+msgid "Skype"
+msgstr ""
+
+#: admin/widget-main-slider.php:113
+msgid "Slide"
+msgstr ""
+
+#: admin/customizer-settings.php:2187
+msgid "Slide Down"
+msgstr ""
+
+#: admin/customizer-sections.php:92 admin/meta-box-gallery-type.php:20
+msgid "Slider"
+msgstr ""
+
+#: admin/customizer-settings.php:3592
+msgid "Slider Dots Style"
+msgstr ""
+
+#: admin/customizer-settings.php:3577
+msgid "Slider Horizontal Align"
+msgstr ""
+
+#: admin/customizer-settings.php:3506
+msgid "Slider Meta Bg/Border Color"
+msgstr ""
+
+#: admin/customizer-settings.php:3475
+msgid "Slider Meta Style"
+msgstr ""
+
+#: admin/customizer-settings.php:3532
+msgid "Slider More Link Style"
+msgstr ""
+
+#: admin/customizer-settings.php:3517
+msgid "Slider More Link Visibility"
+msgstr ""
+
+#: admin/customizer-settings.php:3320
+msgid "Slider Nav Position"
+msgstr ""
+
+#: admin/customizer-settings.php:3335
+msgid "Slider Nav Shape"
+msgstr ""
+
+#: admin/customizer-settings.php:3349
+msgid "Slider Nav Style"
+msgstr ""
+
+#: admin/customizer-settings.php:3391
+msgid "Slider Parallax Effect"
+msgstr ""
+
+#: admin/customizer-settings.php:3547
+msgid "Slider Text Align"
+msgstr ""
+
+#: admin/customizer-settings.php:3405
+msgid "Slider Title Font"
+msgstr ""
+
+#: admin/customizer-settings.php:3418
+msgid "Slider Title Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:3431
+msgid "Slider Title Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3365
+msgid "Slider Title Style"
+msgstr ""
+
+#: admin/customizer-settings.php:3446
+msgid "Slider Title Text Ratio"
+msgstr ""
+
+#: admin/customizer-settings.php:3461
+msgid "Slider Title Text Transform"
+msgstr ""
+
+#: admin/customizer-settings.php:3562
+msgid "Slider Vertical Align"
+msgstr ""
+
+#: admin/widget-main-slider.php:49 admin/widget-main-slider.php:291
+msgid "Slides"
+msgstr ""
+
+#: admin/widget-main-slider.php:60
+msgid "Slides Count"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:66
+msgid "SlideShare"
+msgstr ""
+
+#: admin/customizer-settings.php:1303
+msgid "Slightly"
+msgstr ""
+
+#: admin/customizer-settings.php:1673
+msgid "Smart Sticky"
+msgstr ""
+
+#: admin/customizer-settings.php:1132
+msgid "Smooth Scroll"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:37
+msgid "Snapchat"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:11
+msgid "Social media icons."
+msgstr ""
+
+#: admin/customizer-settings.php:1232 admin/customizer-settings.php:1253
+#: admin/customizer-settings.php:1748 admin/customizer-settings.php:1769
+msgid "Soft"
+msgstr ""
+
+#: admin/customizer-settings.php:1235 admin/customizer-settings.php:1256
+#: admin/customizer-settings.php:1751 admin/customizer-settings.php:1772
+msgid "Soft Long"
+msgstr ""
+
+#: admin/customizer-settings.php:4701
+msgid "Soft Rounded"
+msgstr ""
+
+#: admin/customizer-settings.php:1233 admin/customizer-settings.php:1254
+#: admin/customizer-settings.php:1749 admin/customizer-settings.php:1770
+msgid "Soft Short"
+msgstr ""
+
+#: admin/customizer-settings.php:1234 admin/customizer-settings.php:1255
+#: admin/customizer-settings.php:1750 admin/customizer-settings.php:1771
+msgid "Soft Shorter"
+msgstr ""
+
+#: admin/customizer-settings.php:146 admin/customizer-settings.php:1985
+#: admin/customizer-settings.php:2967 admin/customizer-settings.php:3484
+#: admin/customizer-settings.php:4418 admin/customizer-settings.php:4770
+msgid "Solid"
+msgstr ""
+
+#: admin/customizer-settings.php:1990 admin/customizer-settings.php:2968
+msgid "Solid Arrow"
+msgstr ""
+
+#: admin/customizer-settings.php:1991
+msgid "Solid Arrow Left"
+msgstr ""
+
+#: admin/customizer-settings.php:1992
+msgid "Solid Arrow Right"
+msgstr ""
+
+#: admin/customizer-settings.php:1995
+msgid "Solid Chat Box"
+msgstr ""
+
+#: admin/customizer-settings.php:1335
+msgid "Solid Color"
+msgstr ""
+
+#: admin/customizer-settings.php:1993
+msgid "Solid Cut Left"
+msgstr ""
+
+#: admin/customizer-settings.php:1994
+msgid "Solid Cut Right"
+msgstr ""
+
+#: admin/customizer-settings.php:1986
+msgid "Solid Horizontal"
+msgstr ""
+
+#: admin/customizer-settings.php:147 admin/customizer-settings.php:3486
+#: admin/customizer-settings.php:4772
+msgid "Solid Light"
+msgstr ""
+
+#: admin/customizer-settings.php:4773
+msgid "Solid Light Round"
+msgstr ""
+
+#: admin/customizer-settings.php:3487
+msgid "Solid Light Rounded"
+msgstr ""
+
+#: admin/customizer-settings.php:1989
+msgid "Solid Overflow"
+msgstr ""
+
+#: admin/customizer-settings.php:4771
+msgid "Solid Round"
+msgstr ""
+
+#: admin/customizer-settings.php:3485
+msgid "Solid Rounded"
+msgstr ""
+
+#: admin/customizer-settings.php:1987
+msgid "Solid Skew"
+msgstr ""
+
+#: admin/customizer-settings.php:1988
+msgid "Solid Skew Horizontal"
+msgstr ""
+
+#: functions.php:250
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: admin/widget-social-media-icon.php:54
+msgid "SoundCloud"
+msgstr ""
+
+#: admin/customizer-settings.php:4494 admin/customizer-settings.php:4702
+#: admin/widget-link-box.php:66 admin/widget-main-slider.php:98
+msgid "Square"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:62
+msgid "Stack Overflow"
+msgstr ""
+
+#: admin/widget-main-slider.php:117
+msgid "Stack Scale"
+msgstr ""
+
+#: admin/widget-main-slider.php:118
+msgid "Stack Zoom"
+msgstr ""
+
+#: admin/customizer-settings.php:3373
+msgid "Stamp"
+msgstr ""
+
+#: admin/customizer-settings.php:1674
+msgid "Static"
+msgstr ""
+
+#: admin/customizer-settings.php:3324
+msgid "Stick to Edges"
+msgstr ""
+
+#: admin/customizer-settings.php:710
+msgid "Stick with Menu"
+msgstr ""
+
+#: admin/customizer-settings.php:1672 admin/customizer-settings.php:4732
+msgid "Sticky"
+msgstr ""
+
+#: admin/customizer-settings.php:4117
+msgid "Sticky Posts"
+msgstr ""
+
+#: admin/widget-main-slider.php:53
+msgid "Sticky posts"
+msgstr ""
+
+#: admin/customizer-settings.php:2902
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: admin/customizer-sections.php:134 admin/widget-about-me.php:49
+msgid "Style"
+msgstr ""
+
+#: admin/customizer-settings.php:855
+msgid "Sub Heading Font (H2-H6)"
+msgstr ""
+
+#: admin/customizer-settings.php:881
+msgid "Sub Heading Font Text Transform (H2-H6)"
+msgstr ""
+
+#: admin/customizer-settings.php:868
+msgid "Sub Heading Font Weight (H2-H6)"
+msgstr ""
+
+#: admin/customizer-settings.php:2157
+msgid "Sub Menu Align"
+msgstr ""
+
+#: admin/customizer-settings.php:2172
+msgid "Sub Menu Animation"
+msgstr ""
+
+#: admin/customizer-settings.php:2201
+msgid "Sub Menu Animation Duration"
+msgstr ""
+
+#: admin/customizer-settings.php:2216
+msgid "Sub Menu Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2231
+msgid "Sub Menu Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:2244
+msgid "Sub Menu Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2142
+msgid "Sub Menu Style"
+msgstr ""
+
+#: admin/widget-main-slider.php:128
+msgid "Swing"
+msgstr ""
+
+#: admin/widget-main-slider.php:131
+msgid "Swing Horizontal"
+msgstr ""
+
+#: admin/widget-main-slider.php:132
+msgid "Swing Horizontal Big"
+msgstr ""
+
+#: admin/widget-main-slider.php:129
+msgid "Swing Vertical"
+msgstr ""
+
+#: admin/widget-main-slider.php:130
+msgid "Swing Vertical Big"
+msgstr ""
+
+#: admin/customizer-settings.php:4021
+msgid "Tag Archive"
+msgstr ""
+
+#: admin/customizer-settings.php:4413
+msgid "Tag Cloud Style"
+msgstr ""
+
+#: admin/customizer-settings.php:424
+msgid "Tagline Font"
+msgstr ""
+
+#: admin/customizer-settings.php:437
+msgid "Tagline Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:452
+msgid "Tagline Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:465
+msgid "Tagline Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:480
+msgid "Tagline Text Transform"
+msgstr ""
+
+#: admin/customizer-settings.php:494
+msgid "Tagline Visibility"
+msgstr ""
+
+#: admin/customizer-settings.php:4397
+msgid "Tags"
+msgstr ""
+
+#: admin/widget-link-box.php:67 admin/widget-main-slider.php:99
+msgid "Tall"
+msgstr ""
+
+#: admin/customizer-settings.php:354
+msgid "Text Logo Font"
+msgstr ""
+
+#: admin/customizer-settings.php:367
+msgid "Text Logo Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:397
+msgid "Text Logo Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:382
+msgid "Text Logo Sticky Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:410
+msgid "Text Logo Text Transform"
+msgstr ""
+
+#: 404.php:26 functions.php:215
+msgid "The page you are looking for was not found!"
+msgstr ""
+
+#. Name of the theme
+msgid "TheBlogger"
+msgstr ""
+
+#: admin/customizer-sections.php:36
+msgid "Theme buttons settings."
+msgstr ""
+
+#: admin/customizer-sections.php:30
+msgid "Theme color settings."
+msgstr ""
+
+#: admin/customizer-sections.php:82
+msgid "Theme featured area settings."
+msgstr ""
+
+#: admin/customizer-sections.php:18
+msgid "Theme font settings."
+msgstr ""
+
+#: admin/customizer-sections.php:75
+msgid "Theme footer settings."
+msgstr ""
+
+#: admin/customizer-sections.php:87
+msgid "Theme general featured area settings."
+msgstr ""
+
+#: admin/customizer-sections.php:49
+msgid "Theme general header settings."
+msgstr ""
+
+#: admin/customizer-sections.php:44
+msgid "Theme header settings."
+msgstr ""
+
+#: admin/customizer-sections.php:67
+msgid "Theme icon box settings."
+msgstr ""
+
+#: admin/customizer-sections.php:12
+msgid "Theme layout settings."
+msgstr ""
+
+#: functions.php:6
+msgid "Theme Navigation Menu"
+msgstr ""
+
+#: admin/customizer-sections.php:55
+msgid "Theme navigation menu settings."
+msgstr ""
+
+#: admin/customizer-sections.php:155
+msgid "Theme sidebar settings."
+msgstr ""
+
+#: admin/customizer-sections.php:61
+msgid "Theme top bar settings."
+msgstr ""
+
+#: admin/customizer-settings.php:1962 admin/customizer-settings.php:2591
+msgid "Thin"
+msgstr ""
+
+#: admin/customizer-settings.php:2592
+msgid "Thin Light"
+msgstr ""
+
+#: footer.php:130
+msgid "This field is required."
+msgstr ""
+
+#: admin/customizer-settings.php:3902 admin/customizer-settings.php:3930
+msgid "This setting may be overridden for individual pages."
+msgstr ""
+
+#: admin/customizer-settings.php:4287 admin/customizer-settings.php:4315
+msgid "This setting may be overridden for individual posts."
+msgstr ""
+
+#: admin/widget-social-media-icon.php:39
+msgid "TikTok"
+msgstr ""
+
+#: admin/customizer-settings.php:2192
+msgid "Tilt In"
+msgstr ""
+
+#: admin/widget-about-me.php:24 admin/widget-intro.php:32
+#: admin/widget-link-box.php:25 admin/widget-main-slider.php:40
+#: admin/widget-social-media-icon.php:26
+msgid "Title"
+msgstr ""
+
+#: admin/customizer-settings.php:3100 admin/customizer-settings.php:3918
+#: admin/customizer-settings.php:4303 admin/meta-box-post-style.php:42
+msgid "Title Full"
+msgstr ""
+
+#: admin/meta-box-title-visibility.php:69
+msgid "Title Visibility"
+msgstr ""
+
+#: admin/meta-box-gallery-type.php:35
+msgid ""
+"To show your images in a lightbox, select Grid type then edit your gallery "
+"in the content editor and choose Link To: Media File from gallery settings."
+msgstr ""
+
+#: admin/customizer-settings.php:3567 admin/customizer-settings.php:3716
+msgid "Top"
+msgstr ""
+
+#: admin/install-plugins.php:94
+msgid "Top 10 - Popular Posts"
+msgstr ""
+
+#: admin/customizer-sections.php:60
+msgid "Top Bar"
+msgstr ""
+
+#: admin/customizer-settings.php:2416
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2431
+msgid "Top Bar Background Gradient Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2352
+msgid "Top Bar Font"
+msgstr ""
+
+#: admin/customizer-settings.php:2365
+msgid "Top Bar Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2380
+msgid "Top Bar Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:2393
+msgid "Top Bar Height (px)"
+msgstr ""
+
+#: admin/widget_area-register.php:140
+msgid "Top Bar Left"
+msgstr ""
+
+#: admin/customizer-settings.php:2274
+msgid "Top Bar Mobile Visibility"
+msgstr ""
+
+#: admin/widget_area-register.php:152
+msgid "Top Bar Right"
+msgstr ""
+
+#: admin/customizer-settings.php:2318
+msgid "Top Bar Style"
+msgstr ""
+
+#: admin/customizer-settings.php:2290
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2304
+msgid "Top Bar Text Transform"
+msgstr ""
+
+#: admin/customizer-settings.php:2336
+msgid "Top Bar Width"
+msgstr ""
+
+#: admin/customizer-settings.php:2323 admin/customizer-settings.php:3118
+#: admin/customizer-settings.php:3936 admin/customizer-settings.php:3965
+#: admin/customizer-settings.php:4321
+msgid "Transparent"
+msgstr ""
+
+#: admin/customizer-settings.php:3122 admin/customizer-settings.php:3940
+#: admin/customizer-settings.php:3969 admin/customizer-settings.php:4325
+msgid "Transparent Light"
+msgstr ""
+
+#: admin/customizer-settings.php:3123 admin/customizer-settings.php:3941
+#: admin/customizer-settings.php:3970 admin/customizer-settings.php:4326
+msgid "Transparent Light Margin"
+msgstr ""
+
+#: admin/customizer-settings.php:3119 admin/customizer-settings.php:3937
+#: admin/customizer-settings.php:3966 admin/customizer-settings.php:4322
+msgid "Transparent Margin"
+msgstr ""
+
+#: admin/customizer-settings.php:3051
+msgid "Trending Posts Style"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:57
+msgid "Tumblr"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:52
+msgid "Twitch"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:35
+msgid "Twitter"
+msgstr ""
+
+#: header.php:198
+msgid "type and hit enter"
+msgstr ""
+
+#: admin/widget-main-slider.php:102
+msgid "Ultra Wide"
+msgstr ""
+
+#: admin/customizer-settings.php:145 admin/customizer-settings.php:1978
+#: admin/customizer-settings.php:2969 admin/customizer-settings.php:4774
+msgid "Underline"
+msgstr ""
+
+#: admin/customizer-settings.php:1979
+msgid "Underline Bold"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:41
+msgid "Unsplash"
+msgstr ""
+
+#: admin/customizer-settings.php:510
+msgid "Upload a logo or choose an image from your media library."
+msgstr ""
+
+#: admin/customizer-settings.php:523
+msgid ""
+"Upload a logo or choose an image from your media library. Only needed when "
+"your header color is in contrast with your header transparent color."
+msgstr ""
+
+#: admin/customizer-settings.php:1202
+msgid "Upload an image or choose from your media library."
+msgstr ""
+
+#: admin/customizer-settings.php:223 admin/customizer-settings.php:415
+#: admin/customizer-settings.php:485 admin/customizer-settings.php:846
+#: admin/customizer-settings.php:886 admin/customizer-settings.php:1842
+#: admin/customizer-settings.php:2309 admin/customizer-settings.php:2507
+#: admin/customizer-settings.php:2689 admin/customizer-settings.php:3466
+#: admin/customizer-settings.php:3687 admin/customizer-settings.php:3889
+#: admin/customizer-settings.php:4822
+msgid "Uppercase"
+msgstr ""
+
+#: admin/meta-box-featured-media.php:13 admin/widget-social-media-icon.php:81
+msgid "URL"
+msgstr ""
+
+#: admin/customizer-sections.php:177
+msgid "Use new WordPress core feature"
+msgstr ""
+
+#: admin/meta-box-featured-media.php:32
+msgid "Use this URL field for format; Link, Audio and Video."
+msgstr ""
+
+#: admin/customizer-settings.php:1333
+msgid "Vertical Gradient"
+msgstr ""
+
+#: admin/meta-box-featured-media.php:56
+msgid ""
+"Video: Just paste the browser address url of a video from YouTube or Vimeo. "
+"This video will be shown in place of featured image."
+msgstr ""
+
+#: admin/meta-box-featured-media.php:47
+msgid ""
+"Video: Use browser address url of a video from YouTube or Vimeo. This video "
+"will be shown in a lightbox in your portfolio page."
+msgstr ""
+
+#: admin/customizer-settings.php:1040
+msgid "Vietnamese Characters"
+msgstr ""
+
+#: admin/widget-main-slider.php:478
+msgid "View Post"
+msgstr ""
+
+#: admin/functions-woocommerce.php:20 admin/functions-woocommerce.php:51
+msgid "View your shopping cart"
+msgstr ""
+
+#: admin/post-meta.php:133
+msgid "Views"
+msgstr ""
+
+#: admin/customizer-settings.php:4956 admin/customizer-settings.php:5101
+msgid "Views Count"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:53
+msgid "Vimeo"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:69
+msgid "Vine"
+msgstr ""
+
+#: admin/widget-main-slider.php:268
+msgid "Visible"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:67
+msgid "VKontakte"
+msgstr ""
+
+#: admin/customizer-settings.php:1546
+msgid "Wave 1"
+msgstr ""
+
+#: admin/customizer-settings.php:1547
+msgid "Wave 2"
+msgstr ""
+
+#: admin/customizer-settings.php:1548
+msgid "Wave 3"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:65
+msgid "Weibo"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:38
+msgid "WhatsApp"
+msgstr ""
+
+#: admin/widget-link-box.php:68 admin/widget-main-slider.php:100
+msgid "Wide"
+msgstr ""
+
+#: admin/customizer-settings.php:2945
+msgid "Widget Title Align"
+msgstr ""
+
+#: admin/customizer-settings.php:3040
+msgid "Widget Title Bg/Border Color"
+msgstr ""
+
+#: admin/customizer-settings.php:2983
+msgid "Widget Title Font"
+msgstr ""
+
+#: admin/customizer-settings.php:2996
+msgid "Widget Title Font Size (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:3011
+msgid "Widget Title Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:3024
+msgid "Widget Title Letter Spacing (px)"
+msgstr ""
+
+#: admin/customizer-settings.php:2959
+msgid "Widget Title Style"
+msgstr ""
+
+#: admin/customizer-sections.php:171
+msgid "Widgets"
+msgstr ""
+
+#: admin/customizer-sections.php:172
+msgid ""
+"Widgets are independent sections of content that can be placed into "
+"widgetized areas provided by your theme (commonly called sidebars)."
+msgstr ""
+
+#: admin/widget-link-box.php:53 admin/widget-main-slider.php:82
+msgid "Width"
+msgstr ""
+
+#: admin/post-meta.php:53
+msgid "with"
+msgstr ""
+
+#: admin/install-plugins.php:119
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:56
+msgid "WordPress"
+msgstr ""
+
+#: admin/demo-import.php:181
+msgid ""
+"WP Memory limit of 128 MB or greater. 256 MB or higher is preferred. For "
+"further reading check"
+msgstr ""
+
+#: admin/demo-import.php:181
+msgid "WP Memory Limit:"
+msgstr ""
+
+#: admin/install-plugins.php:109
+msgid "WPFront Scroll Top"
+msgstr ""
+
+#: admin/about-author.php:10
+msgid "Written By"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:64
+msgid "Xing"
+msgstr ""
+
+#: admin/archive-title.php:86
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: admin/widget-social-media-icon.php:76
+msgid "Yelp"
+msgstr ""
+
+#: admin/customizer-settings.php:666 admin/customizer-settings.php:959
+#: admin/customizer-settings.php:1121 admin/customizer-settings.php:1137
+#: admin/customizer-settings.php:1218 admin/customizer-settings.php:1492
+#: admin/customizer-settings.php:2774 admin/customizer-settings.php:2791
+#: admin/customizer-settings.php:2806 admin/customizer-settings.php:2823
+#: admin/customizer-settings.php:2840 admin/customizer-settings.php:2857
+#: admin/customizer-settings.php:2874 admin/customizer-settings.php:2906
+#: admin/customizer-settings.php:3396 admin/customizer-settings.php:3731
+#: admin/customizer-settings.php:3819 admin/customizer-settings.php:4402
+#: admin/customizer-settings.php:4432 admin/customizer-settings.php:4479
+#: admin/customizer-settings.php:4508 admin/customizer-settings.php:4570
+#: admin/customizer-settings.php:4599 admin/widget-intro.php:87
+#: admin/widget-link-box.php:39 admin/widget-main-slider.php:182
+#: admin/widget-main-slider.php:192 admin/widget-main-slider.php:203
+#: admin/widget-main-slider.php:215 admin/widget-main-slider.php:235
+#: admin/widget-main-slider.php:245 admin/widget-main-slider.php:256
+#: admin/widget-social-media-icon.php:89
+msgid "Yes"
+msgstr ""
+
+#: admin/customizer-settings.php:4523
+msgid "Yes - Always"
+msgstr ""
+
+#: admin/customizer-settings.php:4167
+msgid "Yes - For all post formats"
+msgstr ""
+
+#: admin/customizer-settings.php:4522
+msgid "Yes - If biographical info available"
+msgstr ""
+
+#: admin/customizer-settings.php:4166
+msgid "Yes - Only for standard format"
+msgstr ""
+
+#: 404.php:15 functions.php:204
+msgid "you are lost!"
+msgstr ""
+
+#: admin/archive-title.php:60
+msgid "you searched for"
+msgstr ""
+
+#: functions.php:141
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: admin/widget-social-media-icon.php:51
+msgid "YouTube"
+msgstr ""
+
+#: admin/customizer-settings.php:1316
+msgid "YouTube, Vimeo page url."
+msgstr ""
+
+#: admin/customizer-settings.php:725 admin/widget-main-slider.php:138
+msgid "Zoom"
+msgstr ""
+
+#: admin/widget-main-slider.php:139
+msgid "Zoom Horizontal"
+msgstr ""
+
+#: admin/widget-main-slider.php:140
+msgid "Zoom Horizontal Big"
+msgstr ""
+
+#: admin/customizer-settings.php:2181
+msgid "Zoom In"
+msgstr ""
+
+#: admin/widget-main-slider.php:143
+msgid "Zoom In Down"
+msgstr ""
+
+#: admin/customizer-settings.php:726
+msgid "Zoom Rotate"
+msgstr ""
+
+#: admin/widget-main-slider.php:141
+msgid "Zoom Vertical"
+msgstr ""
+
+#: admin/widget-main-slider.php:142
+msgid "Zoom Vertical Big"
+msgstr ""

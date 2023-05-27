@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixelwars Core Shortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-29 19:37+0000\n"
+"PO-Revision-Date: 2020-08-29 19:38+0000\n"
+"Last-Translator: Mehmet Sali\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5"
+
+#: themes/global/shortcodes.php:280
+msgid "EMAIL"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.pixelwars.org"
+msgstr ""
+
+#: themes/global/shortcodes.php:281
+msgid "MESSAGE"
+msgstr ""
+
+#: themes/global/shortcodes.php:279
+msgid "NAME"
+msgstr ""
+
+#. Author of the plugin
+msgid "Pixelwars"
+msgstr ""
+
+#. Name of the plugin
+msgid "Pixelwars Core Shortcodes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shortcodes for Pixelwars themes."
+msgstr ""
+
+#: themes/global/shortcodes.php:283
+msgid "Submit"
+msgstr ""
+
+#: themes/global/shortcodes.php:262
+msgid "What is the sum?"
+msgstr ""

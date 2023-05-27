@@ -1,0 +1,139 @@
+
+---Downloaded files---
+The import files for: Anna were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/homelymag
+Data file = C:\xampp\htdocs\homelymag/wp-content/themes/theblogger/admin/demo-data/anna/content.xml
+Widget file = C:\xampp\htdocs\homelymag/wp-content/themes/theblogger/admin/demo-data/anna/widgets.wie
+Customizer file = C:\xampp\htdocs\homelymag/wp-content/themes/theblogger/admin/demo-data/anna/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Archives - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+Blog Sidebar : 
+
+(Pixelwars) About Me - About Me - Imported
+Categories - No Title - Imported
+Mailchimp Sign-Up Form - No Title - Imported
+Popular Posts [Top 10] - TRENDING POSTS - Imported
+Text - No Title - Imported
+Recent Posts - No Title - Imported
+null-instagram-feed - Instagram - Site does not support widget
+
+Header Social Media Icons : 
+
+(Pixelwars) Social Media Icon - Facebook - Imported
+(Pixelwars) Social Media Icon - Twitter - Imported
+(Pixelwars) Social Media Icon - Vine - Imported
+(Pixelwars) Social Media Icon - Dribbble - Imported
+(Pixelwars) Social Media Icon - Instagram - Imported
+
+Footer Subscribe : 
+
+Mailchimp Sign-Up Form - Stay Updated - Imported
+
+Footer Instagram : 
+
+null-instagram-feed - Instagram - Site does not support widget
+
+Footer Copyright Text : 
+
+Text - No Title - Imported
+
+Author Social Media Icons : 
+
+(Pixelwars) Social Media Icon - Facebook - Imported
+(Pixelwars) Social Media Icon - Twitter - Imported
+(Pixelwars) Social Media Icon - Vine - Imported
+(Pixelwars) Social Media Icon - Dribbbble - Imported
+(Pixelwars) Social Media Icon - Instagram - Imported
+
+Blog Featured Area : 
+
+(Pixelwars) Main Slider - No Title - Imported
+(Pixelwars) Link Box - Stuff - Imported
+(Pixelwars) Link Box - Food - Imported
+(Pixelwars) Link Box - Travel - Imported
+(Pixelwars) Link Box - Instagram - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
